@@ -1,14 +1,20 @@
 var output = document.getElementById("output");
 var button = document.getElementById("btn");
-var bigfishbutton = document.getElementById("bigfishbtn")
 // i don't know why i do stuff in the way i do but honestly i cba rewriting stuff when it works :)
 // i am also not a programmer i'm just a cat on the internet who knows how to use google
-function compare(big) {
+function compare() {
     let arr1 = JSON.parse($('#input1').val());
     let arr2 = JSON.parse($('#input2').val());
     let compared = arr2.filter(x => !arr1.includes(x));
     let fishdiff = []
-    // finds the differences
+    var big = ""
+    // check if button is toggled
+    if ($("#bigfishbtn").hasClass("active")) {
+        var big = "bigfish"
+    } else {
+        // nothing
+    }
+    // find differences
     compared.forEach((element) =>  {
         found = fishlist[0][element]
         if (found === undefined) {
@@ -20,6 +26,7 @@ function compare(big) {
     fishdiff_filtered = fishdiff.filter(element => element !== undefined);
     // checks if its a big fish or not if  that button is pressed
     if (big === "bigfish") {
+        console.log("bifeesh")
         let bigfishdiff = []
         fishdiff_filtered.forEach((fish) =>{
             if (fish.rarity == 2) {
@@ -40,15 +47,9 @@ function compare(big) {
         })
         return fishdiff_names.join('\n');
     }
-    return
 }
 
 button.addEventListener('click', () => {
     let compared = compare()
-    output.value = compared 
-})
-
-bigfishbutton.addEventListener('click', () => {
-    let compared = compare("bigfish")
     output.value = compared 
 })
