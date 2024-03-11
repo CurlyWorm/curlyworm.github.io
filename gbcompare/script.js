@@ -19,9 +19,17 @@ function compare() {
     compared.forEach((element) =>  {
         found = fishlist[0][element]
         if (found === undefined) {
-            console.log(element+" was undefined, probably a spearfish")
+            console.log(element+" is probably a spearfish, checking against spearfish list")
+            try {
+                foundspearfish = spearfishlist[element]
+                fishdiff.push(foundspearfish)
+            } catch (error) {
+                console.log(found+" is not in the data")
+                return
+            }
+        } else {
+            fishdiff.push(found)
         }
-        fishdiff.push(found)
     });
     // filter undefined because some fish come back undefined and it's probably related to the fish list but i'll look into it eventually
     fishdiff_filtered = fishdiff.filter(element => element !== undefined);
@@ -30,15 +38,13 @@ function compare() {
         let bigfishdiff = []
         fishdiff_filtered.forEach((fish) =>{
             if (fish.rarity == 2) {
-                // console.log(fish.name+" is a bigfish")
                 bigfishdiff.push(fish.name)
             } else {
-                // console.log(fish.name+" is not a bigfish, doing nothing")
             }
         })
         return bigfishdiff.join('\n');
     }
-    // lists all fish if bigfish wasn't clicked
+    // lists all fish if bigfish wasn't toggled
     else {
         fishdiff_names = []
         fishdiff_filtered.forEach((fish) =>{
@@ -64,11 +70,9 @@ function pullfromlocalstorage() {
     // put the left value from last session back
     let leftoutput = localStorage.getItem('leftinput');
     document.getElementById("input1").value = leftoutput;
-    console.log(leftoutput)
     // put the right value from last session back
     let rightoutput = localStorage.getItem('rightinput');
     document.getElementById("input2").value = rightoutput;
-    console.log(rightoutput)
 }
 
 button.addEventListener('click', () => {
