@@ -18,7 +18,7 @@ function compare() {
     compared.forEach((element) =>  {
         found = fishlist[0][element]
         if (found === undefined) {
-            console.log(element+" was undefined")
+            console.log(element+" was undefined, probably a spearfish")
         }
         fishdiff.push(found)
     });
@@ -26,7 +26,6 @@ function compare() {
     fishdiff_filtered = fishdiff.filter(element => element !== undefined);
     // checks if its a big fish or not if  that button is pressed
     if (big === "bigfish") {
-        console.log("bifeesh")
         let bigfishdiff = []
         fishdiff_filtered.forEach((fish) =>{
             if (fish.rarity == 2) {
