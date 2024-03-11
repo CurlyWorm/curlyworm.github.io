@@ -1,2 +1,2 @@
 # curlyworm.github.io
-[Gatherbuddy List comparison](curlyworm.github.io/gbcompare.html)
+[Gatherbuddy List comparison](https://curlyworm.github.io/gbcompare.html)
