@@ -1,30 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GB Compare</title>
-    <link rel="stylesheet" href="./gbcompare/style.css">
-  </head>
-  <body>
+    <title>GatherBuddy Compare</title>
+    <link rel="stylesheet" href="gbcompare/style.css">
+</head>
+<body>
+	<header>
+		<h1>GatherBuddy Compare</h1>
+	</header>
     <main>
-      <div class='wrap'>
-        <div>
-          <textarea id="input1" class="input1"/></textarea>
-          <textarea id="input2" class="input2"/></textarea>
+		<div class="inputs">
+			<textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
+			<textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
         </div>
-        <div>
-          <input type="button" id="bigfishbtn" class="btn" value="Big fish only">
-          <input type="button" id="btn" class="btn" value="All fish">
-        </div>
-        <textarea id="output" class="output"/></textarea>
-      </div>
+		<button id="bigfishbtn">Big Fish</button> 
+		<button id="btn">Compare</button>
+        <textarea id="output" class="output" readonly placeholder="Comparison Results..."></textarea>
     </main>
-    <b>Checks what fish the left input doesn't have</b>
-    <br>no i'm not making a better ui lol</br>
-    <br>totally meant for more than 2 people</br>
-  <script src="./gbcompare/fishlist.js"></script>
-	<script src="./gbcompare/script.js"></script>
-  </body>
+    <footer>
+        <p>Check what items the left input doesn't have</p>
+        <p>🐟 Totally meant for more than 2 people 🐟</p>
+		<p>For use with GatherBuddy plugin in FFXIV</p>
+    </footer>
+	<script src="gbcompare/fishlist.js"></script>
+	<script src="gbcompare/script.js"></script>
+	<script>
+        // on page load clear output box
+        document.addEventListener("DOMContentLoaded", function() {
+            document.getElementById("output").value = "";
+        });
+		
+		// bigfishbtn toggle
+        document.getElementById("bigfishbtn").addEventListener("click", function() {
+            this.classList.toggle("active");
+        });
+    </script>
+</body>
 </html>
