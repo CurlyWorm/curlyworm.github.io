@@ -2,7 +2,7 @@ var output = document.getElementById("output");
 var button = document.getElementById("btn");
 var bigfishbutton = document.getElementById("bigfishbtn")
 // i don't know why i do stuff in the way i do but honestly i cba rewriting stuff when it works :)
-
+// i am also not a programmer i'm just a cat on the internet who knows how to use google
 function compare(big) {
     let arr1 = JSON.parse($('#input1').val());
     let arr2 = JSON.parse($('#input2').val());
