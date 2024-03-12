@@ -45,6 +45,13 @@
             document.getElementById("output").value = "";
             pullfromlocalstorage();
         });
+        // flip inputs
+        document.getElementById("flipBtn").addEventListener("click", function() {
+            let templeftinput = document.getElementById("input1").value;
+            let temprightinput = document.getElementById("input2").value;
+            document.getElementById("input1").value = temprightinput;
+            document.getElementById("input2").value = templeftinput;
+        });
     </script>
 
 </body>
