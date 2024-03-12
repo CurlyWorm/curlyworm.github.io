@@ -15,24 +15,19 @@ function compare() {
     let includeBigFish = document.getElementById("bigFishToggle").checked;
     let includeSpearfishing = document.getElementById("spearfishingToggle").checked;
 
+    // rarity 1 = normal
+    // rarity 2 = big
     compared.forEach((element) => {
         let found = fishlist[0][element];
+        let foundspearfish = spearfishlist[element];
+
         if (found === undefined) {
             console.log(element + " is probably a spearfish, checking against spearfish list");
-            try {
-                let foundspearfish = spearfishlist[element];
-                if (includeSpearfishing && foundspearfish) {
-                    fishdiff.push(foundspearfish);
-                }
-            } catch (error) {
-                console.log(found + " is not in the data");
-                return;
+            if (includeSpearfishing && foundspearfish) {
+                fishdiff.push(foundspearfish);
             }
         } else {
-            if (includeRegularFish && found && found.rarity == 1) {
-                fishdiff.push(found);
-            }
-            if (includeBigFish && found && found.rarity == 2) {
+            if ((includeRegularFish && found.rarity == 1) || (includeBigFish && found.rarity == 2)) {
                 fishdiff.push(found);
             }
         }
