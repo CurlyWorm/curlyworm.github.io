@@ -16,7 +16,18 @@
 			<textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
 			<textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
         </div>
-		<button id="bigfishbtn">Showing All Fish</button> 
+        
+        <p>Click the buttons to toggle which you want to see</p>
+        
+        <div class="inputs">
+            <input type="checkbox" id="regularFishToggle" class="stateToggle visually-hidden" checked>
+            <label for="regularFishToggle" class="toggle-btn">Regular Fish</label>
+            <input type="checkbox" id="bigFishToggle" class="stateToggle visually-hidden">
+            <label for="bigFishToggle" class="toggle-btn">Big Fish</label>
+            <input type="checkbox" id="spearfishingToggle" class="stateToggle visually-hidden">
+            <label for="spearfishingToggle" class="toggle-btn">Spearfishing</label>
+        </div>
+
 		<button id="btn">Compare</button>
         <textarea id="output" class="output" readonly placeholder="Comparison Results..."></textarea>
     </main>

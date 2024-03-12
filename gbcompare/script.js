@@ -2,57 +2,44 @@ var output = document.getElementById("output");
 var button = document.getElementById("btn");
 // i don't know why i do stuff in the way i do but honestly i cba rewriting stuff when it works :)
 // i am also not a programmer i'm just a cat on the internet who knows how to use google
+// Function to handle the comparison
 function compare() {
-    pushtolocalstorage()
+    pushtolocalstorage();
     let arr1 = JSON.parse($('#input1').val());
     let arr2 = JSON.parse($('#input2').val());
     let compared = arr2.filter(x => !arr1.includes(x));
-    let fishdiff = []
-    var big = ""
-    // check if button is toggled
-    if ($("#bigfishbtn").hasClass("active")) {
-        var big = "bigfish"
-    } else {
-        // nothing
-    }
-    // find differences
-    compared.forEach((element) =>  {
-        found = fishlist[0][element]
+    let fishdiff = [];
+
+    // Check the state toggles
+    let includeRegularFish = document.getElementById("regularFishToggle").checked;
+    let includeBigFish = document.getElementById("bigFishToggle").checked;
+    let includeSpearfishing = document.getElementById("spearfishingToggle").checked;
+
+    compared.forEach((element) => {
+        let found = fishlist[0][element];
         if (found === undefined) {
-            console.log(element+" is probably a spearfish, checking against spearfish list")
+            console.log(element + " is probably a spearfish, checking against spearfish list");
             try {
-                foundspearfish = spearfishlist[element]
-                fishdiff.push(foundspearfish)
+                let foundspearfish = spearfishlist[element];
+                if (includeSpearfishing && foundspearfish) {
+                    fishdiff.push(foundspearfish);
+                }
             } catch (error) {
-                console.log(found+" is not in the data")
-                return
+                console.log(found + " is not in the data");
+                return;
             }
         } else {
-            fishdiff.push(found)
+            if (includeRegularFish && found && found.rarity == 1) {
+                fishdiff.push(found);
+            }
+            if (includeBigFish && found && found.rarity == 2) {
+                fishdiff.push(found);
+            }
         }
     });
-    // filter undefined because some fish come back undefined and it's probably related to the fish list but i'll look into it eventually
-    fishdiff_filtered = fishdiff.filter(element => element !== undefined);
-    // checks if its a big fish or not if  that button is pressed
-    if (big === "bigfish") {
-        let bigfishdiff = []
-        fishdiff_filtered.forEach((fish) =>{
-            if (fish.rarity == 2) {
-                bigfishdiff.push(fish.name)
-            } else {
-            }
-        })
-        return bigfishdiff.join('\n');
-    }
-    // lists all fish if bigfish wasn't toggled
-    else {
-        fishdiff_names = []
-        fishdiff_filtered.forEach((fish) =>{
-            let nmf = fish.name
-            fishdiff_names.push(nmf)
-        })
-        return fishdiff_names.join('\n');
-    }
+
+    let fishdiff_names = fishdiff.map(fish => fish.name);
+    return fishdiff_names.join('\n');
 }
 
 function pushtolocalstorage() {
@@ -75,7 +62,10 @@ function pullfromlocalstorage() {
     document.getElementById("input2").value = rightoutput;
 }
 
+// Event listener for the Compare button
 button.addEventListener('click', () => {
-    let compared = compare()
-    output.value = compared 
-})
+    let compared = compare();
+    output.value = compared;
+});
+
+
