@@ -16,7 +16,7 @@
 			<textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
 			<textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
         </div>
-		<button id="bigfishbtn">Only Show Big Fish</button> 
+		<button id="bigfishbtn">Showing All Fish</button> 
 		<button id="btn">Compare</button>
         <textarea id="output" class="output" readonly placeholder="Comparison Results..."></textarea>
     </main>
@@ -34,10 +34,13 @@
             document.getElementById("output").value = "";
             pullfromlocalstorage()
         });
-		
-		// bigfishbtn toggle
+
+        // bigfishbtn toggle
         document.getElementById("bigfishbtn").addEventListener("click", function() {
-            this.classList.toggle("active");
+            var states = ["All Fish", "Regular Fish", "Big Fish", "Spearfishing"]; // toggle states
+            var currentIndex = states.indexOf(this.textContent.replace("Showing ", "")); // get current state index
+            var nextIndex = (currentIndex + 1) % states.length; // next state index
+            this.textContent = "Showing " + states[nextIndex]; // set button text with "Showing"
         });
     </script>
 </body>
