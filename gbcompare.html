@@ -14,9 +14,9 @@
     <main>
         <div class="inputs">
             <textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
+            <button id="flipBtn">&#8646;</button>
             <textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
         </div>
-        
         <p>Click the buttons to toggle which you want to see</p>
         
         <div class="inputs">
@@ -43,16 +43,9 @@
         // on page load clear output box
         document.addEventListener("DOMContentLoaded", function() {
             document.getElementById("output").value = "";
-            pullfromlocalstorage()
-        });
-        
-        // bigfishbtn toggle
-        document.getElementById("bigfishbtn").addEventListener("click", function() {
-            var states = ["All Fish", "Regular Fish", "Big Fish", "Spearfishing"]; // toggle states
-            var currentIndex = states.indexOf(this.textContent.replace("Showing ", "")); // get current state index
-            var nextIndex = (currentIndex + 1) % states.length; // next state index
-            this.textContent = "Showing " + states[nextIndex]; // set button text with "Showing"
+            pullfromlocalstorage();
         });
     </script>
+
 </body>
 </html>

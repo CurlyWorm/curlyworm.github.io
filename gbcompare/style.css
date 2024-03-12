@@ -1,21 +1,24 @@
+/* Body */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    overflow: hidden;
     background-color: #f7f7f7;
 }
 
+/* Header */
 header {
     background-color: #333;
     color: #fff;
     text-align: center;
     padding: 20px 0;
 }
-
 header h1 {
     margin: 0;
 }
 
+/* Main content */
 main {
     max-width: 800px;
     margin: 20px auto;
@@ -30,13 +33,27 @@ main {
     justify-content: space-between;
 }
 
-.input {
-    width: 45%;
+.input,
+output,
+.output {
+    width: 100%;
     height: 150px;
     resize: none;
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
+    font-size: 16px;
+}
+
+.output {
+    width: calc(100% - 22px);
+    min-height: 150px;
+    max-height: 300px;
+    resize: vertical;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
     font-size: 16px;
 }
 
@@ -53,16 +70,7 @@ button {
     cursor: pointer;
 }
 
-output {
-    width: 100%;
-    height: 150px;
-    resize: none;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    font-size: 16px;
-}
-
+/* Footer */
 footer {
     margin-top: 20px;
     text-align: center;
@@ -73,24 +81,38 @@ footer p {
     margin: 5px 0;
 }
 
-.output {
-    width: calc(100% - 22px);
-    min-height: 150px;
-    max-height: 300px;
-    resize: vertical;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    margin-top: 20px;
-    font-size: 16px;
-}
-
+/* Active state */
 #bigfishbtn.active {
     background-color: #4CAF50;
     color: white;
 }
 
-/* Add this CSS to style the toggle buttons */
+/* Toggle button styles */
+.toggle-btn,
+#flipBtn,
+#btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.toggle-btn:hover,
+#flipBtn:hover,
+#btn:hover {
+    background-color: #555;
+}
+
+.stateToggle:checked + .toggle-btn {
+    background-color: #4CAF50;
+}
+
+/* Button toggle hiding */
 .visually-hidden {
     position: absolute;
     clip: rect(0, 0, 0, 0);
@@ -102,30 +124,18 @@ footer p {
     padding: 0;
 }
 
-.toggle-btn {
-    display: inline-block;
-    background-color: #333; /* Background color of compare button */
-    color: #fff; /* Text color of compare button */
-    padding: 10px 16px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-    font-size: 16px;
-    transition: background-color 0.3s; /* Add transition for hover effect */
-}
-
-/* Style for checked state */
-.stateToggle:checked + .toggle-btn {
-    background-color: #4CAF50; /* Green when checked */
-}
-
-/* Hover effect */
-.toggle-btn:hover {
-    background-color: #555; /* Darken the background color on hover */
-}
-
 .inputs {
-    display: flex; /* Use flexbox layout */
-    justify-content: space-between; /* Evenly space the items */
-    margin-bottom: 10px; /* Add margin at the bottom for spacing */
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+#flipBtn {
+    font-size: 14px;
+    padding: 4px 8px;
+    margin: 0 4px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
