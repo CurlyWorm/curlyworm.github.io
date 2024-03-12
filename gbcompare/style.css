@@ -89,3 +89,43 @@ footer p {
     background-color: #4CAF50;
     color: white;
 }
+
+/* Add this CSS to style the toggle buttons */
+.visually-hidden {
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+.toggle-btn {
+    display: inline-block;
+    background-color: #333; /* Background color of compare button */
+    color: #fff; /* Text color of compare button */
+    padding: 10px 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Add transition for hover effect */
+}
+
+/* Style for checked state */
+.stateToggle:checked + .toggle-btn {
+    background-color: #4CAF50; /* Green when checked */
+}
+
+/* Hover effect */
+.toggle-btn:hover {
+    background-color: #555; /* Darken the background color on hover */
+}
+
+.inputs {
+    display: flex; /* Use flexbox layout */
+    justify-content: space-between; /* Evenly space the items */
+    margin-bottom: 10px; /* Add margin at the bottom for spacing */
+}

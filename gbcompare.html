@@ -1,43 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GatherBuddy Compare</title>
     <link rel="stylesheet" href="gbcompare/style.css">
 </head>
 <body>
-	<header>
-		<h1>GatherBuddy List Comparison</h1>
-	</header>
+    <header>
+        <h1>GatherBuddy List Comparison</h1>
+    </header>
     <main>
-		<div class="inputs">
-			<textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
-			<textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
+        <div class="inputs">
+            <textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
+            <textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
         </div>
-		<button id="bigfishbtn">Only Show Big Fish</button> 
-		<button id="btn">Compare</button>
+        
+        <p>Click the buttons to toggle which you want to see</p>
+        
+        <div class="inputs">
+            <input type="checkbox" id="regularFishToggle" class="stateToggle visually-hidden" checked>
+            <label for="regularFishToggle" class="toggle-btn">Regular Fish</label>
+            <input type="checkbox" id="bigFishToggle" class="stateToggle visually-hidden">
+            <label for="bigFishToggle" class="toggle-btn">Big Fish</label>
+            <input type="checkbox" id="spearfishingToggle" class="stateToggle visually-hidden">
+            <label for="spearfishingToggle" class="toggle-btn">Spearfishing</label>
+        </div>
+        
+        <button id="btn">Compare</button>
         <textarea id="output" class="output" readonly placeholder="Comparison Results..."></textarea>
     </main>
     <footer>
         <p>Lists what fish the left input is missing</p>
         <p>🐟 Totally meant for more than 2 people 🐟</p>
-		<p>For use with GatherBuddy plugin in FFXIV</p>
+        <p>For use with GatherBuddy plugin in FFXIV</p>
     </footer>
-	<script src="gbcompare/fishlist.js"></script>
+    <script src="gbcompare/fishlist.js"></script>
     <script src="gbcompare/spearfishing.js"></script>
-	<script src="gbcompare/script.js"></script>
-	<script>
+    <script src="gbcompare/script.js"></script>
+    <script>
         // on page load clear output box
         document.addEventListener("DOMContentLoaded", function() {
             document.getElementById("output").value = "";
             pullfromlocalstorage()
         });
-		
-		// bigfishbtn toggle
+        
+        // bigfishbtn toggle
         document.getElementById("bigfishbtn").addEventListener("click", function() {
-            this.classList.toggle("active");
+            var states = ["All Fish", "Regular Fish", "Big Fish", "Spearfishing"]; // toggle states
+            var currentIndex = states.indexOf(this.textContent.replace("Showing ", "")); // get current state index
+            var nextIndex = (currentIndex + 1) % states.length; // next state index
+            this.textContent = "Showing " + states[nextIndex]; // set button text with "Showing"
         });
     </script>
 </body>
