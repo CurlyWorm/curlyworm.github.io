@@ -81,12 +81,6 @@ footer p {
     margin: 5px 0;
 }
 
-/* Active state */
-#bigfishbtn.active {
-    background-color: #4CAF50;
-    color: white;
-}
-
 /* Toggle button styles */
 .toggle-btn,
 #flipBtn,

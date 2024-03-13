@@ -14,12 +14,15 @@ function compare() {
     let includeRegularFish = document.getElementById("regularFishToggle").checked;
     let includeBigFish = document.getElementById("bigFishToggle").checked;
     let includeSpearfishing = document.getElementById("spearfishingToggle").checked;
+    let includeOceanFish = document.getElementById("oceanFishToggle").checked;
 
     // rarity 1 = normal
     // rarity 2 = big
+    // rarity 3 = ocean fish blue/big
     compared.forEach((element) => {
         let found = fishlist[0][element];
         let foundspearfish = spearfishlist[element];
+        let foundoceanfish = oceanfishlist[element];
 
         if (found === undefined) {
             console.log(element + " is probably a spearfish, checking against spearfish list");
@@ -27,7 +30,7 @@ function compare() {
                 fishdiff.push(foundspearfish);
             }
         } else {
-            if ((includeRegularFish && found.rarity == 1) || (includeBigFish && found.rarity == 2)) {
+            if ((includeRegularFish && found.rarity == 1) || (includeBigFish && found.rarity == 2) || (includeOceanFish && foundoceanfish)) {
                 fishdiff.push(found);
             }
         }
