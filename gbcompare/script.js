@@ -45,9 +45,11 @@ function pushtolocalstorage() {
     // store the left value
     let leftinput = document.getElementById("input1").value;
     localStorage.setItem("leftinput", leftinput);
+    updateEntryCount('input1', 'input1_count');
     // store the right value
     let rightinput = document.getElementById("input2").value;
     localStorage.setItem("rightinput", rightinput);
+    updateEntryCount('input2', 'input2_count');
 }
 
 function pullfromlocalstorage() {
@@ -66,7 +68,6 @@ button.addEventListener('click', () => {
     output.value = compared;
 });
 
-
 // entry count in lists
 function updateEntryCount(inputId, countId) {
     var input = document.getElementById(inputId);
@@ -74,6 +75,8 @@ function updateEntryCount(inputId, countId) {
     var lines = input.value.trim().split('\n');
     var totalCount = 0;
     var lastLineEndedWithComma = false;
+    // do something with this at some point so when new fish added dynamically increases fish amount
+    var totalFishAmount = 1525;
     
     for (var i = 0; i < lines.length; i++) {
         var line = lines[i].trim();
@@ -90,7 +93,7 @@ function updateEntryCount(inputId, countId) {
             lastLineEndedWithComma = false;
         }
     }
-    count.textContent = totalCount + "/1525";
+    count.textContent = totalCount + "/" + totalFishAmount;
 }
 
 updateEntryCount('input1', 'input1_count');
