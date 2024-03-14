@@ -67,3 +67,55 @@ button.addEventListener('click', () => {
 });
 
 
+// entry count in lists
+function updateEntryCount(inputId, countId) {
+    var input = document.getElementById(inputId);
+    var count = document.getElementById(countId);
+    var lines = input.value.trim().split('\n');
+    var totalCount = 0;
+    var lastLineEndedWithComma = false;
+    
+    for (var i = 0; i < lines.length; i++) {
+        var line = lines[i].trim();
+        if (!line || isNaN(parseInt(line[0]))) {
+            continue;
+        }
+        if (line.endsWith(',')) {
+            totalCount++;
+            lastLineEndedWithComma = true;
+        } else {
+            if (lastLineEndedWithComma) {
+                totalCount++;
+            }
+            lastLineEndedWithComma = false;
+        }
+    }
+    count.textContent = totalCount + "/1525";
+}
+
+updateEntryCount('input1', 'input1_count');
+updateEntryCount('input2', 'input2_count');
+
+document.getElementById('input1').addEventListener('input', function() {
+    updateEntryCount('input1', 'input1_count');
+});
+
+document.getElementById('input2').addEventListener('input', function() {
+    updateEntryCount('input2', 'input2_count');
+});
+
+// flip inputs
+document.getElementById("flipBtn").addEventListener("click", function() {
+    let templeftinput = document.getElementById("input1").value;
+    let temprightinput = document.getElementById("input2").value;
+    document.getElementById("input1").value = temprightinput;
+    document.getElementById("input2").value = templeftinput;
+    updateEntryCount('input1', 'input1_count');
+    updateEntryCount('input2', 'input2_count');
+});
+
+        // on page load clear output box
+document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById("output").value = "";
+    pullfromlocalstorage();
+});
