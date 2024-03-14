@@ -12,11 +12,20 @@
         <h1>GatherBuddy List Comparison</h1>
     </header>
     <main>
+        <div class="input-count-container">
+            <label for="input1_count"></label>
+            <span id="input1_count">0</span>
+            <div class="gap"></div>
+            <label for="input2_count"></label>
+            <span id="input2_count">0</span>
+        </div>
+
         <div class="inputs">
             <textarea id="input1" class="input" placeholder="Enter list 1..."></textarea>
             <button id="flipBtn">&#8646;</button>
             <textarea id="input2" class="input" placeholder="Enter list 2..."></textarea>
         </div>
+        
         <p>Click the buttons to toggle which you want to see</p>
         
         <div class="inputs">
@@ -43,20 +52,5 @@
     <script src="gbcompare/spearfishlist.js"></script>
     <script src="gbcompare/oceanfishlist.js"></script>
     <script src="gbcompare/script.js"></script>
-    <script>
-        // on page load clear output box
-        document.addEventListener("DOMContentLoaded", function() {
-            document.getElementById("output").value = "";
-            pullfromlocalstorage();
-        });
-        // flip inputs
-        document.getElementById("flipBtn").addEventListener("click", function() {
-            let templeftinput = document.getElementById("input1").value;
-            let temprightinput = document.getElementById("input2").value;
-            document.getElementById("input1").value = temprightinput;
-            document.getElementById("input2").value = templeftinput;
-        });
-    </script>
-
 </body>
 </html>

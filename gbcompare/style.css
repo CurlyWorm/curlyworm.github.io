@@ -133,3 +133,28 @@ footer p {
     justify-content: center;
     align-items: center;
 }
+
+.input-count-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.input-count-container div {
+    display: flex;
+    align-items: center;
+}
+
+.input-count-container label {
+    margin-right: auto;
+    text-align: right;
+}
+
+.input-count-container span {
+    margin-left: auto;
+    text-align: left;
+}
+
+.gap {
+    display: flex;
+    padding: 0 18px;
+}
