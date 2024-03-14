@@ -158,3 +158,7 @@ footer p {
     display: flex;
     padding: 0 18px;
 }
+
+.toggletext {
+    text-align: center;
+}
