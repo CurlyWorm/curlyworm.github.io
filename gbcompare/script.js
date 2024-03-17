@@ -62,10 +62,29 @@ function pullfromlocalstorage() {
     document.getElementById("input2").value = rightoutput;
 }
 
+// Function to filter the output
+function filterOutput(searchTerm) {
+    var compared = compare(); // Get the original comparison results
+    var filteredResults = compared.split('\n').filter(function(line) {
+        return line.toLowerCase().includes(searchTerm); // Filter lines that contain the search term
+    }).join('\n'); // Join the filtered lines back together
+    output.value = filteredResults; // Update the output textarea with the filtered results
+}
+
 // Event listener for the Compare button
-button.addEventListener('click', () => {
-    let compared = compare();
+button.addEventListener('click', function() {
+    var compared = compare();
     output.value = compared;
+});
+
+// Event listener for the search bar
+document.getElementById('searchBar').addEventListener('input', function() {
+    var searchTerm = this.value.trim(); // Get the value of the search bar
+    if (searchTerm === '') {
+        output.value = compare(); // If search bar is empty, show original comparison results
+    } else {
+        filterOutput(searchTerm); // Filter the output based on the search term
+    }
 });
 
 // entry count in lists
@@ -117,8 +136,8 @@ document.getElementById("flipBtn").addEventListener("click", function() {
     updateEntryCount('input2', 'input2_count');
 });
 
-        // on page load clear output box
 document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("output").value = "";
+    document.getElementById("searchBar").value = ""; // Clear the search bar
     pullfromlocalstorage();
 });
