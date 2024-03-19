@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow-x: hidden;
     background-color: #f7f7f7;
 }
 
@@ -55,7 +55,9 @@ output,
     padding: 10px;
     margin-top: 10px;
     font-size: 16px;
+    overflow-y: auto;
 }
+
 
 button {
     display: block;
@@ -83,6 +85,7 @@ footer p {
 
 /* Toggle button styles */
 .toggle-btn,
+.toggle-btn-tooltip,
 #flipBtn,
 #btn {
     display: inline-block;
@@ -94,28 +97,37 @@ footer p {
     border-radius: 5px;
     font-size: 16px;
     transition: background-color 0.3s;
+    position: relative;
 }
 
 .toggle-btn:hover,
+.toggle-btn-tooltip:hover,
 #flipBtn:hover,
 #btn:hover {
     background-color: #555;
 }
 
+/* Style the label when checkbox is checked */
 .stateToggle:checked + .toggle-btn {
     background-color: #4CAF50;
 }
 
+/* Style the tooltip when checkbox is checked */
+.stateToggle:checked + .toggle-btn-tooltip {
+    background-color: #4CAF50;
+}
+
+
 /* Button toggle hiding */
 .visually-hidden {
     position: absolute;
-    clip: rect(0, 0, 0, 0);
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
     overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
     padding: 0;
+    border: 0;
 }
 
 .inputs {
@@ -139,11 +151,6 @@ footer p {
     justify-content: space-between;
 }
 
-.input-count-container div {
-    display: flex;
-    align-items: center;
-}
-
 .input-count-container label {
     margin-right: auto;
     text-align: right;
@@ -165,9 +172,28 @@ footer p {
 
 .search-bar {
     width: 100%;
-    padding: 10px 16px;
+    padding: 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
     box-sizing: border-box;
     font-size: 16px;
+}
+
+.toggle-btn-tooltip {
+    position: relative;
+}
+
+.toggle-btn-tooltip:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 1;
+    opacity: 0.9;
 }
