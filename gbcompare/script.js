@@ -67,24 +67,44 @@ function filterOutput(searchTerm) {
     var compared = compare(); // Get the original comparison results
     var filteredResults = compared.split('\n').filter(function(line) {
         return line.toLowerCase().includes(searchTerm); // Filter lines that contain the search term
-    }).join('\n'); // Join the filtered lines back together
-    output.value = filteredResults; // Update the output textarea with the filtered results
+    });
+    
+    // Sort the filtered results alphabetically
+    filteredResults.sort();
+    
+    // Join the filtered lines back together
+    output.value = filteredResults.join('\n');
 }
 
 // Event listener for the Compare button
 button.addEventListener('click', function() {
     var compared = compare();
     output.value = compared;
+    output.value = sortAlphabetically(compared);
+    
+    // reset scroll position
+    document.getElementById("output").scrollTop = 0;
 });
+
+// sort array alphabetically
+function sortAlphabetically(text) {
+    var lines = text.split('\n');
+    lines.sort();
+    return lines.join('\n');
+}
 
 // Event listener for the search bar
 document.getElementById('searchBar').addEventListener('input', function() {
     var searchTerm = this.value.trim(); // Get the value of the search bar
     if (searchTerm === '') {
-        output.value = compare(); // If search bar is empty, show original comparison results
+        // If search bar is empty, show original comparison results sorted alphabetically
+        output.value = sortAlphabetically(compare());
     } else {
         filterOutput(searchTerm); // Filter the output based on the search term
     }
+    
+    // reset scroll position
+    document.getElementById("output").scrollTop = 0;
 });
 
 // entry count in lists
@@ -140,4 +160,7 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("output").value = "";
     document.getElementById("searchBar").value = ""; // Clear the search bar
     pullfromlocalstorage();
+    
+    // reset scroll position
+    document.getElementById("output").scrollTop = 0;
 });

@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow-x: hidden;
     background-color: #f7f7f7;
 }
 
@@ -55,7 +55,9 @@ output,
     padding: 10px;
     margin-top: 10px;
     font-size: 16px;
+    overflow-y: auto;
 }
+
 
 button {
     display: block;
@@ -137,11 +139,6 @@ footer p {
 .input-count-container {
     display: flex;
     justify-content: space-between;
-}
-
-.input-count-container div {
-    display: flex;
-    align-items: center;
 }
 
 .input-count-container label {
