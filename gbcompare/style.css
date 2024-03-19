@@ -97,6 +97,7 @@ footer p {
     border-radius: 5px;
     font-size: 16px;
     transition: background-color 0.3s;
+    position: relative;
 }
 
 .toggle-btn:hover,
@@ -106,20 +107,27 @@ footer p {
     background-color: #555;
 }
 
+/* Style the label when checkbox is checked */
 .stateToggle:checked + .toggle-btn {
     background-color: #4CAF50;
 }
 
+/* Style the tooltip when checkbox is checked */
+.stateToggle:checked + .toggle-btn-tooltip {
+    background-color: #4CAF50;
+}
+
+
 /* Button toggle hiding */
 .visually-hidden {
     position: absolute;
-    clip: rect(0, 0, 0, 0);
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
     overflow: hidden;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    width: 1px;
+    margin: -1px;
     padding: 0;
+    border: 0;
 }
 
 .inputs {
