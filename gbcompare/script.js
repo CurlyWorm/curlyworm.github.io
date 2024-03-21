@@ -160,6 +160,8 @@ document.addEventListener("DOMContentLoaded", function() {
     document.getElementById("output").value = "";
     document.getElementById("searchBar").value = ""; // Clear the search bar
     pullfromlocalstorage();
+    updateEntryCount('input1', 'input1_count');
+    updateEntryCount('input2', 'input2_count');
     
     // reset scroll position
     document.getElementById("output").scrollTop = 0;
