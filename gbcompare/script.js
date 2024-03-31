@@ -16,28 +16,30 @@ function compare() {
     let includeSpearfishing = document.getElementById("spearfishingToggle").checked;
     let includeOceanFish = document.getElementById("oceanFishToggle").checked;
 
-    // rarity 1 = normal
-    // rarity 2 = big
-    // rarity 3 = ocean fish blue/big
     compared.forEach((element) => {
-        let found = fishlist[0][element];
-        let foundspearfish = spearfishlist[element];
-        let foundoceanfish = oceanfishlist[element];
+        let found = fishlist[element];
 
         if (found === undefined) {
-            console.log(element + " is probably a spearfish, checking against spearfish list");
-            if (includeSpearfishing && foundspearfish) {
-                fishdiff.push(foundspearfish);
+            console.log(element + " failed to find in fishlist");
+            return;
+        }
+        try {
+            if ((includeRegularFish && found.BigFish[0] == false) ||
+                (includeBigFish && found.BigFish[0] == true && found.OceanStars == 0) ||
+                (includeOceanFish && found.OceanStars >= 1) ||
+                (includeSpearfishing && !found.SpearFishSize == 'Small') ||
+                (includeSpearfishing && found.SpearFishSize == 'Average') ||
+                (includeSpearfishing && found.SpearFishSize == 'Big')) {
+                    fishdiff.push(found.FishName);
+                    console.log(found.FishName + " added to list");
+            } else {
+                console.log(found.FishName + " does not meet criteria");
             }
-        } else {
-            if ((includeRegularFish && found.rarity == 1) || (includeBigFish && found.rarity == 2) || (includeOceanFish && foundoceanfish)) {
-                fishdiff.push(found);
-            }
+        } catch (error) {
+            console.log(found.FishName + " failed for whatever reason: " + error);
         }
     });
-
-    let fishdiff_names = fishdiff.map(fish => fish.name);
-    return fishdiff_names.join('\n');
+    return fishdiff.join('\n');
 }
 
 function pushtolocalstorage() {
