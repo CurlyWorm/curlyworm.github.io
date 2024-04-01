@@ -27,7 +27,7 @@ function compare() {
             if ((includeRegularFish && found.BigFish[0] == false && found.OceanStars == 0) ||
                 (includeBigFish && found.BigFish[0] == true && found.OceanStars == 0) ||
                 (includeOceanFish && found.OceanStars >= 1) ||
-                (includeSpearfishing && !found.SpearFishSize == 'Small') ||
+                (includeSpearfishing && found.SpearFishSize == 'Small') ||
                 (includeSpearfishing && found.SpearFishSize == 'Average') ||
                 (includeSpearfishing && found.SpearFishSize == 'Big')) {
                     fishdiff.push(found.FishName);
