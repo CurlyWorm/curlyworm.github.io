@@ -15,7 +15,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4869": {
         "Index": 4,
@@ -44,7 +46,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4870": {
         "Index": 5,
@@ -68,7 +72,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4871": {
         "Index": 8,
@@ -88,7 +94,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4872": {
         "Index": 12,
@@ -111,7 +119,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4873": {
         "Index": 14,
@@ -130,7 +140,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4874": {
         "Index": 15,
@@ -157,7 +169,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4875": {
         "Index": 18,
@@ -176,7 +190,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4876": {
         "Index": 20,
@@ -195,7 +211,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4877": {
         "Index": 22,
@@ -216,7 +234,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4878": {
         "Index": 26,
@@ -240,7 +260,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4879": {
         "Index": 30,
@@ -263,7 +285,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4880": {
         "Index": 32,
@@ -280,7 +304,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4881": {
         "Index": 35,
@@ -303,7 +329,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4882": {
         "Index": 38,
@@ -320,7 +348,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4883": {
         "Index": 40,
@@ -337,7 +367,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4884": {
         "Index": 43,
@@ -355,7 +387,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4885": {
         "Index": 45,
@@ -382,7 +416,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4886": {
         "Index": 49,
@@ -404,7 +440,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4887": {
         "Index": 54,
@@ -421,7 +459,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4888": {
         "Index": 58,
@@ -440,7 +480,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4889": {
         "Index": 61,
@@ -456,7 +498,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4890": {
         "Index": 62,
@@ -473,7 +517,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4891": {
         "Index": 65,
@@ -491,7 +537,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4892": {
         "Index": 67,
@@ -508,7 +556,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4893": {
         "Index": 70,
@@ -525,7 +575,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4894": {
         "Index": 72,
@@ -542,7 +594,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4895": {
         "Index": 75,
@@ -560,7 +614,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4896": {
         "Index": 77,
@@ -579,7 +635,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4897": {
         "Index": 81,
@@ -597,7 +655,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4898": {
         "Index": 83,
@@ -618,7 +678,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4899": {
         "Index": 85,
@@ -635,7 +697,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4900": {
         "Index": 88,
@@ -654,7 +718,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4901": {
         "Index": 93,
@@ -672,7 +738,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4902": {
         "Index": 97,
@@ -690,7 +758,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4903": {
         "Index": 111,
@@ -710,7 +780,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4904": {
         "Index": 116,
@@ -732,7 +804,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4905": {
         "Index": 117,
@@ -749,7 +823,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4906": {
         "Index": 124,
@@ -767,7 +843,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4907": {
         "Index": 129,
@@ -784,7 +862,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4908": {
         "Index": 133,
@@ -801,7 +881,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4909": {
         "Index": 138,
@@ -819,7 +901,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4910": {
         "Index": 143,
@@ -837,7 +921,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4911": {
         "Index": 149,
@@ -856,7 +942,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4912": {
         "Index": 152,
@@ -872,7 +960,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4913": {
         "Index": 155,
@@ -890,7 +980,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4914": {
         "Index": 156,
@@ -908,7 +1000,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4915": {
         "Index": 159,
@@ -924,7 +1018,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4916": {
         "Index": 160,
@@ -940,7 +1036,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4917": {
         "Index": 165,
@@ -957,7 +1055,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4918": {
         "Index": 166,
@@ -973,7 +1073,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4919": {
         "Index": 169,
@@ -991,7 +1093,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4920": {
         "Index": 170,
@@ -1008,7 +1112,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4921": {
         "Index": 171,
@@ -1024,7 +1130,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4922": {
         "Index": 172,
@@ -1040,7 +1148,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4923": {
         "Index": 179,
@@ -1058,7 +1168,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4924": {
         "Index": 180,
@@ -1074,7 +1186,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4925": {
         "Index": 2,
@@ -1098,7 +1212,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4926": {
         "Index": 3,
@@ -1117,7 +1233,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4927": {
         "Index": 6,
@@ -1139,7 +1257,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4928": {
         "Index": 7,
@@ -1159,7 +1279,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4929": {
         "Index": 9,
@@ -1186,7 +1308,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4930": {
         "Index": 11,
@@ -1205,7 +1329,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4931": {
         "Index": 13,
@@ -1230,7 +1356,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4932": {
         "Index": 16,
@@ -1253,7 +1381,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4933": {
         "Index": 17,
@@ -1272,7 +1402,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4934": {
         "Index": 19,
@@ -1297,7 +1429,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4935": {
         "Index": 21,
@@ -1322,7 +1456,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4936": {
         "Index": 23,
@@ -1355,7 +1491,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4937": {
         "Index": 24,
@@ -1380,7 +1518,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4938": {
         "Index": 25,
@@ -1398,7 +1538,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4939": {
         "Index": 27,
@@ -1419,7 +1561,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4940": {
         "Index": 28,
@@ -1445,7 +1589,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4941": {
         "Index": 29,
@@ -1470,7 +1616,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4942": {
         "Index": 31,
@@ -1497,7 +1645,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4943": {
         "Index": 33,
@@ -1523,7 +1673,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4944": {
         "Index": 34,
@@ -1545,7 +1697,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4945": {
         "Index": 36,
@@ -1567,7 +1721,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4946": {
         "Index": 37,
@@ -1586,7 +1742,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4947": {
         "Index": 39,
@@ -1609,7 +1767,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4948": {
         "Index": 41,
@@ -1637,7 +1797,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4949": {
         "Index": 42,
@@ -1655,7 +1817,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4950": {
         "Index": 44,
@@ -1683,7 +1847,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4951": {
         "Index": 46,
@@ -1702,7 +1868,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4952": {
         "Index": 47,
@@ -1728,7 +1896,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4953": {
         "Index": 48,
@@ -1748,7 +1918,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4954": {
         "Index": 50,
@@ -1770,7 +1942,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4955": {
         "Index": 51,
@@ -1791,7 +1965,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4956": {
         "Index": 52,
@@ -1807,7 +1983,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4957": {
         "Index": 53,
@@ -1826,7 +2004,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4958": {
         "Index": 55,
@@ -1848,7 +2028,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4959": {
         "Index": 56,
@@ -1875,7 +2057,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4960": {
         "Index": 59,
@@ -1892,7 +2076,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4961": {
         "Index": 60,
@@ -1909,7 +2095,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4962": {
         "Index": 63,
@@ -1927,7 +2115,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4963": {
         "Index": 64,
@@ -1944,7 +2134,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4964": {
         "Index": 66,
@@ -1961,7 +2153,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4965": {
         "Index": 68,
@@ -1982,7 +2176,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4966": {
         "Index": 69,
@@ -2000,7 +2196,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4967": {
         "Index": 71,
@@ -2021,7 +2219,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4968": {
         "Index": 73,
@@ -2039,7 +2239,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4969": {
         "Index": 76,
@@ -2055,7 +2257,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4970": {
         "Index": 78,
@@ -2075,7 +2279,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4971": {
         "Index": 79,
@@ -2092,7 +2298,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4972": {
         "Index": 80,
@@ -2108,7 +2316,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4973": {
         "Index": 82,
@@ -2132,7 +2342,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4974": {
         "Index": 84,
@@ -2160,7 +2372,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4975": {
         "Index": 86,
@@ -2181,7 +2395,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4976": {
         "Index": 87,
@@ -2202,7 +2418,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4977": {
         "Index": 89,
@@ -2218,7 +2436,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4978": {
         "Index": 90,
@@ -2250,7 +2470,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4979": {
         "Index": 91,
@@ -2269,7 +2491,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4980": {
         "Index": 94,
@@ -2286,7 +2510,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4981": {
         "Index": 95,
@@ -2314,7 +2540,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4982": {
         "Index": 98,
@@ -2335,7 +2563,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4983": {
         "Index": 99,
@@ -2352,7 +2582,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4984": {
         "Index": 101,
@@ -2371,7 +2603,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4985": {
         "Index": 103,
@@ -2387,7 +2621,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4986": {
         "Index": 104,
@@ -2407,7 +2643,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4987": {
         "Index": 105,
@@ -2428,7 +2666,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4988": {
         "Index": 108,
@@ -2447,7 +2687,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4989": {
         "Index": 109,
@@ -2472,7 +2714,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4990": {
         "Index": 112,
@@ -2491,7 +2735,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4991": {
         "Index": 113,
@@ -2508,7 +2754,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4992": {
         "Index": 114,
@@ -2525,7 +2773,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4993": {
         "Index": 115,
@@ -2546,7 +2796,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4994": {
         "Index": 118,
@@ -2563,7 +2815,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4995": {
         "Index": 119,
@@ -2582,7 +2836,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4996": {
         "Index": 121,
@@ -2601,7 +2857,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4997": {
         "Index": 122,
@@ -2619,7 +2877,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4998": {
         "Index": 123,
@@ -2635,7 +2895,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "4999": {
         "Index": 125,
@@ -2652,7 +2914,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5000": {
         "Index": 127,
@@ -2668,7 +2932,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5001": {
         "Index": 128,
@@ -2686,7 +2952,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5002": {
         "Index": 130,
@@ -2707,7 +2975,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5003": {
         "Index": 131,
@@ -2727,7 +2997,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5004": {
         "Index": 135,
@@ -2745,7 +3017,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5005": {
         "Index": 136,
@@ -2763,7 +3037,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5006": {
         "Index": 139,
@@ -2785,7 +3061,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5007": {
         "Index": 140,
@@ -2801,7 +3079,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5008": {
         "Index": 141,
@@ -2819,7 +3099,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5009": {
         "Index": 144,
@@ -2838,7 +3120,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5010": {
         "Index": 145,
@@ -2854,7 +3138,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5011": {
         "Index": 146,
@@ -2876,7 +3162,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5012": {
         "Index": 150,
@@ -2893,7 +3181,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5013": {
         "Index": 151,
@@ -2909,7 +3199,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5014": {
         "Index": 153,
@@ -2925,7 +3217,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5015": {
         "Index": 154,
@@ -2941,7 +3235,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5016": {
         "Index": 157,
@@ -2957,7 +3253,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5017": {
         "Index": 158,
@@ -2973,7 +3271,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5018": {
         "Index": 161,
@@ -2989,7 +3289,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5019": {
         "Index": 162,
@@ -3005,7 +3307,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5020": {
         "Index": 163,
@@ -3022,7 +3326,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5021": {
         "Index": 167,
@@ -3038,7 +3344,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5022": {
         "Index": 173,
@@ -3054,7 +3362,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5023": {
         "Index": 174,
@@ -3070,7 +3380,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5024": {
         "Index": 175,
@@ -3086,7 +3398,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5025": {
         "Index": 176,
@@ -3102,7 +3416,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5026": {
         "Index": 177,
@@ -3118,7 +3434,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5027": {
         "Index": 178,
@@ -3134,7 +3452,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5028": {
         "Index": 181,
@@ -3150,7 +3470,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5029": {
         "Index": 182,
@@ -3166,7 +3488,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5030": {
         "Index": 183,
@@ -3182,7 +3506,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5031": {
         "Index": 184,
@@ -3198,7 +3524,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5032": {
         "Index": 92,
@@ -3215,7 +3543,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5033": {
         "Index": 96,
@@ -3231,7 +3561,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5034": {
         "Index": 100,
@@ -3248,7 +3580,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5035": {
         "Index": 102,
@@ -3265,7 +3599,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5036": {
         "Index": 106,
@@ -3282,7 +3618,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5037": {
         "Index": 110,
@@ -3299,7 +3637,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5038": {
         "Index": 126,
@@ -3316,7 +3656,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5039": {
         "Index": 132,
@@ -3333,7 +3675,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5040": {
         "Index": 134,
@@ -3350,7 +3694,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5041": {
         "Index": 137,
@@ -3367,7 +3713,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5042": {
         "Index": 142,
@@ -3384,7 +3732,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5043": {
         "Index": 147,
@@ -3400,7 +3750,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5044": {
         "Index": 148,
@@ -3416,7 +3768,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5045": {
         "Index": 164,
@@ -3432,7 +3786,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5046": {
         "Index": 168,
@@ -3448,7 +3804,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5460": {
         "Index": 10,
@@ -3466,7 +3824,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5461": {
         "Index": 57,
@@ -3483,7 +3843,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5462": {
         "Index": 107,
@@ -3505,7 +3867,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5466": {
         "Index": 120,
@@ -3525,7 +3889,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "5544": {
         "Index": 74,
@@ -3549,7 +3915,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.0",
+        "PatchName": "ARealmReborn"
     },
     "6185": {
         "Index": 185,
@@ -3565,7 +3933,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.1",
+        "PatchName": "ARealmAwoken"
     },
     "6191": {
         "Index": 186,
@@ -3581,7 +3951,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.1",
+        "PatchName": "ARealmAwoken"
     },
     "6688": {
         "Index": 15000,
@@ -3594,7 +3966,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "6689": {
         "Index": 15001,
@@ -3607,7 +3981,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "6690": {
         "Index": 15002,
@@ -3620,7 +3996,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "6691": {
         "Index": 15003,
@@ -3633,7 +4011,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "6692": {
         "Index": 15004,
@@ -3646,7 +4026,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "7678": {
         "Index": 187,
@@ -3662,7 +4044,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7679": {
         "Index": 188,
@@ -3678,7 +4062,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7680": {
         "Index": 189,
@@ -3694,7 +4080,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7681": {
         "Index": 190,
@@ -3710,7 +4098,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7682": {
         "Index": 191,
@@ -3726,7 +4116,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7683": {
         "Index": 192,
@@ -3742,7 +4134,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7684": {
         "Index": 193,
@@ -3758,7 +4152,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7685": {
         "Index": 194,
@@ -3774,7 +4170,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7686": {
         "Index": 195,
@@ -3790,7 +4188,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7687": {
         "Index": 196,
@@ -3806,7 +4206,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7688": {
         "Index": 197,
@@ -3822,7 +4224,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7689": {
         "Index": 198,
@@ -3838,7 +4242,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7690": {
         "Index": 199,
@@ -3854,7 +4260,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7691": {
         "Index": 200,
@@ -3870,7 +4278,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7692": {
         "Index": 201,
@@ -3886,7 +4296,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7693": {
         "Index": 202,
@@ -3902,7 +4314,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7694": {
         "Index": 203,
@@ -3918,7 +4332,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7695": {
         "Index": 204,
@@ -3934,7 +4350,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7696": {
         "Index": 205,
@@ -3950,7 +4368,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7697": {
         "Index": 206,
@@ -3966,7 +4386,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7698": {
         "Index": 207,
@@ -3982,7 +4404,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7699": {
         "Index": 208,
@@ -3998,7 +4422,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7700": {
         "Index": 209,
@@ -4014,7 +4440,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7701": {
         "Index": 210,
@@ -4030,7 +4458,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7702": {
         "Index": 211,
@@ -4046,7 +4476,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7703": {
         "Index": 212,
@@ -4062,7 +4494,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7704": {
         "Index": 213,
@@ -4078,7 +4512,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7705": {
         "Index": 214,
@@ -4094,7 +4530,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7706": {
         "Index": 215,
@@ -4110,7 +4548,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7707": {
         "Index": 216,
@@ -4126,7 +4566,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7708": {
         "Index": 217,
@@ -4142,7 +4584,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7709": {
         "Index": 218,
@@ -4158,7 +4602,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7710": {
         "Index": 219,
@@ -4174,7 +4620,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7711": {
         "Index": 220,
@@ -4190,7 +4638,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7712": {
         "Index": 221,
@@ -4206,7 +4656,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7713": {
         "Index": 222,
@@ -4222,7 +4674,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7714": {
         "Index": 223,
@@ -4238,7 +4692,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.2",
+        "PatchName": "ThroughTheMaelstrom"
     },
     "7902": {
         "Index": 224,
@@ -4254,7 +4710,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7903": {
         "Index": 225,
@@ -4270,7 +4728,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7904": {
         "Index": 226,
@@ -4286,7 +4746,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7905": {
         "Index": 227,
@@ -4302,7 +4764,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7906": {
         "Index": 228,
@@ -4318,7 +4782,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7907": {
         "Index": 229,
@@ -4334,7 +4800,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7908": {
         "Index": 230,
@@ -4350,7 +4818,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7909": {
         "Index": 231,
@@ -4366,7 +4836,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7910": {
         "Index": 232,
@@ -4382,7 +4854,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7911": {
         "Index": 233,
@@ -4398,7 +4872,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7912": {
         "Index": 234,
@@ -4414,7 +4890,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7913": {
         "Index": 235,
@@ -4430,7 +4908,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7914": {
         "Index": 236,
@@ -4446,7 +4926,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7915": {
         "Index": 237,
@@ -4462,7 +4944,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7916": {
         "Index": 238,
@@ -4478,7 +4962,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7917": {
         "Index": 239,
@@ -4494,7 +4980,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7918": {
         "Index": 240,
@@ -4510,7 +4998,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7919": {
         "Index": 241,
@@ -4526,7 +5016,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7920": {
         "Index": 242,
@@ -4542,7 +5034,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7921": {
         "Index": 243,
@@ -4558,7 +5052,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7922": {
         "Index": 244,
@@ -4574,7 +5070,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7923": {
         "Index": 245,
@@ -4590,7 +5088,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7924": {
         "Index": 246,
@@ -4606,7 +5106,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7925": {
         "Index": 247,
@@ -4622,7 +5124,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7926": {
         "Index": 248,
@@ -4638,7 +5142,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7927": {
         "Index": 249,
@@ -4655,7 +5161,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7928": {
         "Index": 250,
@@ -4671,7 +5179,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7929": {
         "Index": 251,
@@ -4687,7 +5197,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7930": {
         "Index": 252,
@@ -4703,7 +5215,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7931": {
         "Index": 253,
@@ -4719,7 +5233,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7932": {
         "Index": 254,
@@ -4735,7 +5251,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7933": {
         "Index": 255,
@@ -4751,7 +5269,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7934": {
         "Index": 256,
@@ -4767,7 +5287,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7935": {
         "Index": 257,
@@ -4783,7 +5305,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7936": {
         "Index": 258,
@@ -4799,7 +5323,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7937": {
         "Index": 259,
@@ -4815,7 +5341,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7938": {
         "Index": 260,
@@ -4831,7 +5359,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7939": {
         "Index": 261,
@@ -4847,7 +5377,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7940": {
         "Index": 262,
@@ -4863,7 +5395,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7941": {
         "Index": 263,
@@ -4879,7 +5413,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7942": {
         "Index": 264,
@@ -4895,7 +5431,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7943": {
         "Index": 265,
@@ -4911,7 +5449,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7944": {
         "Index": 266,
@@ -4927,7 +5467,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7945": {
         "Index": 267,
@@ -4943,7 +5485,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7946": {
         "Index": 268,
@@ -4959,7 +5503,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7947": {
         "Index": 269,
@@ -4975,7 +5521,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7948": {
         "Index": 270,
@@ -4991,7 +5539,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7949": {
         "Index": 271,
@@ -5007,7 +5557,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7950": {
         "Index": 272,
@@ -5023,7 +5575,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "7951": {
         "Index": 273,
@@ -5039,7 +5593,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.3",
+        "PatchName": "DefendersOfEorzea"
     },
     "8752": {
         "Index": 274,
@@ -5055,7 +5611,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8753": {
         "Index": 275,
@@ -5071,7 +5629,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8754": {
         "Index": 276,
@@ -5087,7 +5647,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8755": {
         "Index": 277,
@@ -5103,7 +5665,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8756": {
         "Index": 278,
@@ -5119,7 +5683,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8757": {
         "Index": 279,
@@ -5135,7 +5701,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8758": {
         "Index": 280,
@@ -5151,7 +5719,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8759": {
         "Index": 281,
@@ -5167,7 +5737,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8760": {
         "Index": 282,
@@ -5183,7 +5755,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8761": {
         "Index": 283,
@@ -5199,7 +5773,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8762": {
         "Index": 284,
@@ -5215,7 +5791,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8763": {
         "Index": 285,
@@ -5231,7 +5809,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8764": {
         "Index": 286,
@@ -5247,7 +5827,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8765": {
         "Index": 287,
@@ -5263,7 +5845,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8766": {
         "Index": 288,
@@ -5279,7 +5863,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8767": {
         "Index": 289,
@@ -5295,7 +5881,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8768": {
         "Index": 290,
@@ -5311,7 +5899,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8769": {
         "Index": 291,
@@ -5327,7 +5917,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8770": {
         "Index": 292,
@@ -5343,7 +5935,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8771": {
         "Index": 293,
@@ -5359,7 +5953,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8772": {
         "Index": 294,
@@ -5375,7 +5971,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8773": {
         "Index": 295,
@@ -5391,7 +5989,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8774": {
         "Index": 296,
@@ -5407,7 +6007,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8775": {
         "Index": 297,
@@ -5423,7 +6025,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "8776": {
         "Index": 298,
@@ -5439,7 +6043,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "2.4",
+        "PatchName": "DreamsOfIce"
     },
     "10123": {
         "Index": 299,
@@ -5455,7 +6061,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "2.5",
+        "PatchName": "BeforeTheFall"
     },
     "12241": {
         "Index": 15008,
@@ -5468,7 +6076,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "12242": {
         "Index": 15009,
@@ -5481,7 +6091,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "12243": {
         "Index": 15010,
@@ -5494,7 +6106,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "12713": {
         "Index": 300,
@@ -5511,7 +6125,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12714": {
         "Index": 301,
@@ -5527,7 +6143,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12715": {
         "Index": 302,
@@ -5547,7 +6165,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12716": {
         "Index": 303,
@@ -5563,7 +6183,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12718": {
         "Index": 304,
@@ -5580,7 +6202,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12719": {
         "Index": 305,
@@ -5598,7 +6222,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12720": {
         "Index": 306,
@@ -5616,7 +6242,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12721": {
         "Index": 307,
@@ -5634,7 +6262,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12722": {
         "Index": 308,
@@ -5654,7 +6284,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12723": {
         "Index": 309,
@@ -5671,7 +6303,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12724": {
         "Index": 310,
@@ -5687,7 +6321,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12725": {
         "Index": 311,
@@ -5703,7 +6339,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12726": {
         "Index": 312,
@@ -5719,7 +6357,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12727": {
         "Index": 313,
@@ -5735,7 +6375,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12728": {
         "Index": 314,
@@ -5753,7 +6395,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12729": {
         "Index": 315,
@@ -5771,7 +6415,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12730": {
         "Index": 316,
@@ -5791,7 +6437,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12731": {
         "Index": 317,
@@ -5813,7 +6461,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12732": {
         "Index": 318,
@@ -5831,7 +6481,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12733": {
         "Index": 319,
@@ -5848,7 +6500,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12734": {
         "Index": 320,
@@ -5866,7 +6520,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12735": {
         "Index": 321,
@@ -5883,7 +6539,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12736": {
         "Index": 322,
@@ -5901,7 +6559,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12737": {
         "Index": 323,
@@ -5917,7 +6577,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12738": {
         "Index": 324,
@@ -5933,7 +6595,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12739": {
         "Index": 325,
@@ -5949,7 +6613,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12740": {
         "Index": 326,
@@ -5965,7 +6631,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12741": {
         "Index": 327,
@@ -5983,7 +6651,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12742": {
         "Index": 328,
@@ -5999,7 +6669,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12743": {
         "Index": 329,
@@ -6015,7 +6687,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12744": {
         "Index": 330,
@@ -6033,7 +6707,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12745": {
         "Index": 331,
@@ -6050,7 +6726,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12746": {
         "Index": 332,
@@ -6066,7 +6744,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12747": {
         "Index": 333,
@@ -6083,7 +6763,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12748": {
         "Index": 334,
@@ -6099,7 +6781,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12749": {
         "Index": 335,
@@ -6115,7 +6799,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12750": {
         "Index": 336,
@@ -6131,7 +6817,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12751": {
         "Index": 337,
@@ -6147,7 +6835,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12752": {
         "Index": 338,
@@ -6163,7 +6853,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12753": {
         "Index": 339,
@@ -6184,7 +6876,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12754": {
         "Index": 340,
@@ -6203,7 +6897,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12755": {
         "Index": 341,
@@ -6220,7 +6916,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12756": {
         "Index": 342,
@@ -6237,7 +6935,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12757": {
         "Index": 343,
@@ -6258,7 +6958,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12758": {
         "Index": 344,
@@ -6274,7 +6976,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12759": {
         "Index": 345,
@@ -6291,7 +6995,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12760": {
         "Index": 346,
@@ -6309,7 +7015,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12761": {
         "Index": 347,
@@ -6325,7 +7033,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12762": {
         "Index": 348,
@@ -6341,7 +7051,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12763": {
         "Index": 349,
@@ -6357,7 +7069,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12764": {
         "Index": 350,
@@ -6373,7 +7087,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12765": {
         "Index": 351,
@@ -6389,7 +7105,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12766": {
         "Index": 352,
@@ -6405,7 +7123,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12767": {
         "Index": 353,
@@ -6421,7 +7141,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12768": {
         "Index": 354,
@@ -6438,7 +7160,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12769": {
         "Index": 355,
@@ -6454,7 +7178,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12770": {
         "Index": 356,
@@ -6470,7 +7196,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12771": {
         "Index": 357,
@@ -6486,7 +7214,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12772": {
         "Index": 358,
@@ -6504,7 +7234,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12773": {
         "Index": 359,
@@ -6521,7 +7253,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12774": {
         "Index": 360,
@@ -6537,7 +7271,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12775": {
         "Index": 361,
@@ -6553,7 +7289,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12776": {
         "Index": 362,
@@ -6572,7 +7310,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12777": {
         "Index": 363,
@@ -6589,7 +7329,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12778": {
         "Index": 364,
@@ -6606,7 +7348,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12779": {
         "Index": 365,
@@ -6622,7 +7366,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12780": {
         "Index": 366,
@@ -6640,7 +7386,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12781": {
         "Index": 367,
@@ -6656,7 +7404,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12782": {
         "Index": 368,
@@ -6672,7 +7422,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12783": {
         "Index": 369,
@@ -6688,7 +7440,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12784": {
         "Index": 370,
@@ -6704,7 +7458,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12785": {
         "Index": 371,
@@ -6721,7 +7477,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12786": {
         "Index": 372,
@@ -6737,7 +7495,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12787": {
         "Index": 373,
@@ -6755,7 +7515,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12788": {
         "Index": 374,
@@ -6771,7 +7533,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12789": {
         "Index": 375,
@@ -6787,7 +7551,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12790": {
         "Index": 376,
@@ -6804,7 +7570,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12791": {
         "Index": 377,
@@ -6821,7 +7589,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12792": {
         "Index": 378,
@@ -6837,7 +7607,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12793": {
         "Index": 379,
@@ -6853,7 +7625,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12794": {
         "Index": 380,
@@ -6869,7 +7643,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12795": {
         "Index": 381,
@@ -6886,7 +7662,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12796": {
         "Index": 382,
@@ -6902,7 +7680,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12797": {
         "Index": 383,
@@ -6918,7 +7698,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12798": {
         "Index": 384,
@@ -6934,7 +7716,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12799": {
         "Index": 385,
@@ -6950,7 +7734,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12800": {
         "Index": 386,
@@ -6966,7 +7752,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12801": {
         "Index": 387,
@@ -6982,7 +7770,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12802": {
         "Index": 388,
@@ -6999,7 +7789,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12803": {
         "Index": 389,
@@ -7015,7 +7807,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12804": {
         "Index": 390,
@@ -7031,7 +7825,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12805": {
         "Index": 391,
@@ -7049,7 +7845,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12806": {
         "Index": 392,
@@ -7065,7 +7863,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12807": {
         "Index": 393,
@@ -7081,7 +7881,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12808": {
         "Index": 394,
@@ -7097,7 +7899,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12809": {
         "Index": 395,
@@ -7113,7 +7917,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12810": {
         "Index": 396,
@@ -7129,7 +7935,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12811": {
         "Index": 397,
@@ -7145,7 +7953,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12812": {
         "Index": 398,
@@ -7162,7 +7972,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12813": {
         "Index": 399,
@@ -7179,7 +7991,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12814": {
         "Index": 400,
@@ -7196,7 +8010,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12815": {
         "Index": 401,
@@ -7213,7 +8029,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12816": {
         "Index": 402,
@@ -7229,7 +8047,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12817": {
         "Index": 403,
@@ -7245,7 +8065,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12818": {
         "Index": 404,
@@ -7265,7 +8087,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12819": {
         "Index": 405,
@@ -7281,7 +8105,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12820": {
         "Index": 406,
@@ -7297,7 +8123,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12821": {
         "Index": 407,
@@ -7313,7 +8141,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12822": {
         "Index": 408,
@@ -7329,7 +8159,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12823": {
         "Index": 409,
@@ -7345,7 +8177,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12824": {
         "Index": 410,
@@ -7361,7 +8195,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12825": {
         "Index": 411,
@@ -7377,7 +8213,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12826": {
         "Index": 412,
@@ -7393,7 +8231,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12827": {
         "Index": 413,
@@ -7409,7 +8249,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12828": {
         "Index": 414,
@@ -7426,7 +8268,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12829": {
         "Index": 415,
@@ -7442,7 +8286,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12830": {
         "Index": 416,
@@ -7458,7 +8304,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12831": {
         "Index": 417,
@@ -7474,7 +8322,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12832": {
         "Index": 418,
@@ -7490,7 +8340,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12833": {
         "Index": 419,
@@ -7506,7 +8358,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12834": {
         "Index": 420,
@@ -7523,7 +8377,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12835": {
         "Index": 421,
@@ -7539,7 +8395,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12836": {
         "Index": 422,
@@ -7555,7 +8413,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "12837": {
         "Index": 423,
@@ -7571,7 +8431,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.0",
+        "PatchName": "Heavensward"
     },
     "13631": {
         "Index": 15014,
@@ -7584,7 +8446,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13727": {
         "Index": 424,
@@ -7600,7 +8464,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "13728": {
         "Index": 425,
@@ -7616,7 +8482,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "13729": {
         "Index": 426,
@@ -7632,7 +8500,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "13730": {
         "Index": 427,
@@ -7648,7 +8518,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "13731": {
         "Index": 428,
@@ -7664,7 +8536,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "13732": {
         "Index": 429,
@@ -7680,7 +8554,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "13733": {
         "Index": 15012,
@@ -7693,7 +8569,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13734": {
         "Index": 15013,
@@ -7706,7 +8584,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13736": {
         "Index": 15015,
@@ -7719,7 +8599,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13737": {
         "Index": 15016,
@@ -7732,7 +8614,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13738": {
         "Index": 15017,
@@ -7745,7 +8629,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13739": {
         "Index": 15018,
@@ -7758,7 +8644,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "13740": {
         "Index": 15019,
@@ -7771,7 +8659,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "14211": {
         "Index": 431,
@@ -7787,7 +8677,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14212": {
         "Index": 432,
@@ -7803,7 +8695,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14213": {
         "Index": 433,
@@ -7819,7 +8713,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14214": {
         "Index": 434,
@@ -7835,7 +8731,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14215": {
         "Index": 430,
@@ -7851,7 +8749,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14216": {
         "Index": 435,
@@ -7867,7 +8767,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14217": {
         "Index": 436,
@@ -7883,7 +8785,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14218": {
         "Index": 437,
@@ -7899,7 +8803,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14219": {
         "Index": 438,
@@ -7915,7 +8821,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "14220": {
         "Index": 439,
@@ -7931,7 +8839,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.1",
+        "PatchName": "AsGoesLightSoGoesDarkness"
     },
     "15439": {
         "Index": 440,
@@ -7947,7 +8857,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15626": {
         "Index": 441,
@@ -7963,7 +8875,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15627": {
         "Index": 442,
@@ -7979,7 +8893,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15628": {
         "Index": 443,
@@ -7995,7 +8911,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15629": {
         "Index": 444,
@@ -8011,7 +8929,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15630": {
         "Index": 445,
@@ -8027,7 +8947,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15631": {
         "Index": 446,
@@ -8043,7 +8965,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15632": {
         "Index": 447,
@@ -8059,7 +8983,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15633": {
         "Index": 448,
@@ -8075,7 +9001,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15634": {
         "Index": 449,
@@ -8091,7 +9019,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15635": {
         "Index": 450,
@@ -8107,7 +9037,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15636": {
         "Index": 451,
@@ -8123,7 +9055,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15637": {
         "Index": 452,
@@ -8139,7 +9073,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "15638": {
         "Index": 453,
@@ -8155,7 +9091,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.3",
+        "PatchName": "RevengeOfTheHorde"
     },
     "16742": {
         "Index": 465,
@@ -8171,7 +9109,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16743": {
         "Index": 466,
@@ -8187,7 +9127,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16744": {
         "Index": 467,
@@ -8203,7 +9145,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16745": {
         "Index": 454,
@@ -8219,7 +9163,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16746": {
         "Index": 455,
@@ -8235,7 +9181,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16747": {
         "Index": 456,
@@ -8251,7 +9199,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16748": {
         "Index": 457,
@@ -8267,7 +9217,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16749": {
         "Index": 458,
@@ -8283,7 +9235,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16750": {
         "Index": 459,
@@ -8299,7 +9253,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16751": {
         "Index": 460,
@@ -8315,7 +9271,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16752": {
         "Index": 461,
@@ -8331,7 +9289,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16753": {
         "Index": 462,
@@ -8347,7 +9307,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16754": {
         "Index": 463,
@@ -8363,7 +9325,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "16756": {
         "Index": 464,
@@ -8379,7 +9343,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.4",
+        "PatchName": "SoulSurrender"
     },
     "17562": {
         "Index": 485,
@@ -8395,7 +9361,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17563": {
         "Index": 486,
@@ -8411,7 +9379,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17564": {
         "Index": 487,
@@ -8427,7 +9397,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17565": {
         "Index": 488,
@@ -8443,7 +9415,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17566": {
         "Index": 489,
@@ -8459,7 +9433,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17577": {
         "Index": 468,
@@ -8475,7 +9451,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17578": {
         "Index": 469,
@@ -8491,7 +9469,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17579": {
         "Index": 470,
@@ -8507,7 +9487,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17580": {
         "Index": 471,
@@ -8523,7 +9505,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17581": {
         "Index": 472,
@@ -8539,7 +9523,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17582": {
         "Index": 473,
@@ -8555,7 +9541,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17583": {
         "Index": 474,
@@ -8571,7 +9559,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17584": {
         "Index": 475,
@@ -8587,7 +9577,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17585": {
         "Index": 476,
@@ -8603,7 +9595,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17586": {
         "Index": 477,
@@ -8619,7 +9613,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17587": {
         "Index": 478,
@@ -8635,7 +9631,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17588": {
         "Index": 479,
@@ -8651,7 +9649,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17589": {
         "Index": 480,
@@ -8667,7 +9667,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17590": {
         "Index": 481,
@@ -8683,7 +9685,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17591": {
         "Index": 482,
@@ -8699,7 +9703,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17592": {
         "Index": 483,
@@ -8715,7 +9721,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17593": {
         "Index": 484,
@@ -8731,7 +9739,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "3.5",
+        "PatchName": "TheFarEdgeOfFate"
     },
     "17594": {
         "Index": 15020,
@@ -8744,7 +9754,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "17835": {
         "Index": 15024,
@@ -8757,7 +9769,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "17836": {
         "Index": 15025,
@@ -8770,7 +9784,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "17949": {
         "Index": 15021,
@@ -8783,7 +9799,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "17950": {
         "Index": 15022,
@@ -8796,14 +9814,18 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "17951": {
         "Index": 30002,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Dafangshi",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "17952": {
         "Index": 15023,
@@ -8816,7 +9838,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "20018": {
         "Index": 596,
@@ -8832,7 +9856,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20019": {
         "Index": 597,
@@ -8848,7 +9874,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20020": {
         "Index": 550,
@@ -8864,7 +9892,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20021": {
         "Index": 598,
@@ -8880,7 +9910,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20022": {
         "Index": 599,
@@ -8896,7 +9928,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20023": {
         "Index": 551,
@@ -8912,7 +9946,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20024": {
         "Index": 600,
@@ -8928,7 +9964,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20025": {
         "Index": 586,
@@ -8944,7 +9982,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20026": {
         "Index": 490,
@@ -8960,7 +10000,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20027": {
         "Index": 570,
@@ -8976,7 +10018,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20028": {
         "Index": 571,
@@ -8992,7 +10036,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20029": {
         "Index": 491,
@@ -9008,7 +10054,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20030": {
         "Index": 601,
@@ -9024,7 +10072,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20031": {
         "Index": 560,
@@ -9040,7 +10090,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20032": {
         "Index": 541,
@@ -9056,7 +10108,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20033": {
         "Index": 506,
@@ -9072,7 +10126,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20034": {
         "Index": 587,
@@ -9088,7 +10144,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20035": {
         "Index": 602,
@@ -9104,7 +10162,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20036": {
         "Index": 552,
@@ -9121,7 +10181,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20037": {
         "Index": 524,
@@ -9137,7 +10199,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20038": {
         "Index": 588,
@@ -9153,7 +10217,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20039": {
         "Index": 589,
@@ -9169,7 +10235,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20040": {
         "Index": 603,
@@ -9185,7 +10253,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20041": {
         "Index": 604,
@@ -9201,7 +10271,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20042": {
         "Index": 492,
@@ -9217,7 +10289,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20043": {
         "Index": 605,
@@ -9233,7 +10307,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20044": {
         "Index": 572,
@@ -9249,7 +10325,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20045": {
         "Index": 493,
@@ -9265,7 +10343,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20046": {
         "Index": 542,
@@ -9281,7 +10361,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20047": {
         "Index": 507,
@@ -9297,7 +10379,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20048": {
         "Index": 606,
@@ -9313,7 +10397,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20049": {
         "Index": 494,
@@ -9329,7 +10415,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20050": {
         "Index": 525,
@@ -9346,7 +10434,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20051": {
         "Index": 607,
@@ -9362,7 +10452,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20052": {
         "Index": 576,
@@ -9378,7 +10470,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20053": {
         "Index": 577,
@@ -9394,7 +10488,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20054": {
         "Index": 608,
@@ -9410,7 +10506,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20055": {
         "Index": 495,
@@ -9426,7 +10524,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20056": {
         "Index": 509,
@@ -9445,7 +10545,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20057": {
         "Index": 510,
@@ -9463,7 +10565,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20058": {
         "Index": 496,
@@ -9481,7 +10585,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20059": {
         "Index": 511,
@@ -9497,7 +10603,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20060": {
         "Index": 526,
@@ -9513,7 +10621,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20061": {
         "Index": 544,
@@ -9529,7 +10639,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20062": {
         "Index": 497,
@@ -9545,7 +10657,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20063": {
         "Index": 512,
@@ -9561,7 +10675,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20064": {
         "Index": 498,
@@ -9578,7 +10694,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20065": {
         "Index": 499,
@@ -9594,7 +10712,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20066": {
         "Index": 527,
@@ -9614,7 +10734,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20067": {
         "Index": 528,
@@ -9630,7 +10752,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20068": {
         "Index": 545,
@@ -9646,7 +10770,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20069": {
         "Index": 529,
@@ -9663,7 +10789,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20070": {
         "Index": 500,
@@ -9679,7 +10807,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20071": {
         "Index": 530,
@@ -9695,7 +10825,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20072": {
         "Index": 501,
@@ -9711,7 +10843,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20073": {
         "Index": 590,
@@ -9728,7 +10862,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20074": {
         "Index": 609,
@@ -9744,7 +10880,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20075": {
         "Index": 591,
@@ -9760,7 +10898,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20076": {
         "Index": 578,
@@ -9776,7 +10916,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20077": {
         "Index": 579,
@@ -9792,7 +10934,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20078": {
         "Index": 592,
@@ -9808,7 +10952,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20079": {
         "Index": 580,
@@ -9824,7 +10970,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20080": {
         "Index": 561,
@@ -9840,7 +10988,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20081": {
         "Index": 531,
@@ -9856,7 +11006,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20082": {
         "Index": 502,
@@ -9873,7 +11025,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20083": {
         "Index": 503,
@@ -9889,7 +11043,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20084": {
         "Index": 513,
@@ -9905,7 +11061,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20085": {
         "Index": 514,
@@ -9921,7 +11079,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20086": {
         "Index": 515,
@@ -9937,7 +11097,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20087": {
         "Index": 504,
@@ -9953,7 +11115,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20088": {
         "Index": 546,
@@ -9969,7 +11133,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20089": {
         "Index": 532,
@@ -9985,7 +11151,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20090": {
         "Index": 505,
@@ -10001,7 +11169,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20091": {
         "Index": 516,
@@ -10017,7 +11187,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20092": {
         "Index": 517,
@@ -10038,7 +11210,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20093": {
         "Index": 518,
@@ -10055,7 +11229,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20094": {
         "Index": 519,
@@ -10072,7 +11248,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20095": {
         "Index": 520,
@@ -10088,7 +11266,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20096": {
         "Index": 521,
@@ -10104,7 +11284,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20097": {
         "Index": 522,
@@ -10120,7 +11302,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20098": {
         "Index": 533,
@@ -10136,7 +11320,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20099": {
         "Index": 534,
@@ -10152,7 +11338,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20100": {
         "Index": 610,
@@ -10168,7 +11356,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20101": {
         "Index": 535,
@@ -10184,7 +11374,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20102": {
         "Index": 536,
@@ -10200,7 +11392,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20103": {
         "Index": 612,
@@ -10216,7 +11410,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20104": {
         "Index": 581,
@@ -10232,7 +11428,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20105": {
         "Index": 582,
@@ -10248,7 +11446,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20106": {
         "Index": 537,
@@ -10264,7 +11464,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20107": {
         "Index": 538,
@@ -10280,7 +11482,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20108": {
         "Index": 539,
@@ -10296,7 +11500,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20109": {
         "Index": 593,
@@ -10312,7 +11518,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20110": {
         "Index": 583,
@@ -10330,7 +11538,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20111": {
         "Index": 553,
@@ -10348,7 +11558,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20112": {
         "Index": 523,
@@ -10369,7 +11581,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20113": {
         "Index": 540,
@@ -10386,7 +11600,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20114": {
         "Index": 584,
@@ -10402,7 +11618,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20115": {
         "Index": 573,
@@ -10418,7 +11636,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20116": {
         "Index": 574,
@@ -10434,7 +11654,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20117": {
         "Index": 575,
@@ -10450,7 +11672,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20118": {
         "Index": 547,
@@ -10466,7 +11690,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20119": {
         "Index": 594,
@@ -10486,7 +11712,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20120": {
         "Index": 548,
@@ -10503,7 +11731,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20121": {
         "Index": 611,
@@ -10519,7 +11749,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20122": {
         "Index": 595,
@@ -10535,7 +11767,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20123": {
         "Index": 549,
@@ -10560,7 +11794,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20124": {
         "Index": 562,
@@ -10576,7 +11812,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20125": {
         "Index": 563,
@@ -10593,7 +11831,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20126": {
         "Index": 554,
@@ -10611,7 +11851,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20127": {
         "Index": 555,
@@ -10631,7 +11873,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20128": {
         "Index": 556,
@@ -10648,7 +11892,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20129": {
         "Index": 564,
@@ -10666,7 +11912,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20130": {
         "Index": 557,
@@ -10682,7 +11930,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20131": {
         "Index": 565,
@@ -10698,7 +11948,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20132": {
         "Index": 558,
@@ -10715,7 +11967,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20133": {
         "Index": 566,
@@ -10733,7 +11987,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20134": {
         "Index": 567,
@@ -10749,7 +12005,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20135": {
         "Index": 568,
@@ -10765,7 +12023,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20136": {
         "Index": 508,
@@ -10781,7 +12041,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20137": {
         "Index": 543,
@@ -10798,7 +12060,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20138": {
         "Index": 559,
@@ -10814,7 +12078,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20140": {
         "Index": 569,
@@ -10830,7 +12096,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20141": {
         "Index": 585,
@@ -10846,7 +12114,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20142": {
         "Index": 613,
@@ -10862,7 +12132,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20143": {
         "Index": 615,
@@ -10878,7 +12150,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20144": {
         "Index": 20000,
@@ -10891,7 +12165,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20145": {
         "Index": 20001,
@@ -10904,7 +12180,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20146": {
         "Index": 20002,
@@ -10917,7 +12195,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20147": {
         "Index": 20003,
@@ -10930,7 +12210,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20148": {
         "Index": 20004,
@@ -10943,7 +12225,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20149": {
         "Index": 20005,
@@ -10956,7 +12240,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20150": {
         "Index": 20006,
@@ -10969,7 +12255,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20151": {
         "Index": 20007,
@@ -10982,7 +12270,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20152": {
         "Index": 20008,
@@ -10995,7 +12285,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20153": {
         "Index": 20009,
@@ -11008,7 +12300,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20154": {
         "Index": 20010,
@@ -11021,7 +12315,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20155": {
         "Index": 20011,
@@ -11034,7 +12330,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20156": {
         "Index": 20012,
@@ -11047,7 +12345,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20157": {
         "Index": 20013,
@@ -11060,7 +12360,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20158": {
         "Index": 20014,
@@ -11073,7 +12375,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20159": {
         "Index": 20015,
@@ -11086,7 +12390,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20160": {
         "Index": 20016,
@@ -11099,7 +12405,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20161": {
         "Index": 20017,
@@ -11112,7 +12420,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20162": {
         "Index": 20018,
@@ -11125,7 +12435,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20163": {
         "Index": 20019,
@@ -11138,7 +12450,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20164": {
         "Index": 20020,
@@ -11151,7 +12465,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20165": {
         "Index": 20021,
@@ -11164,7 +12480,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20166": {
         "Index": 20022,
@@ -11177,7 +12495,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20167": {
         "Index": 20023,
@@ -11190,7 +12510,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20168": {
         "Index": 20024,
@@ -11203,7 +12525,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20169": {
         "Index": 20025,
@@ -11216,7 +12540,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20170": {
         "Index": 20026,
@@ -11229,7 +12555,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20171": {
         "Index": 20027,
@@ -11242,7 +12570,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20172": {
         "Index": 20028,
@@ -11255,7 +12585,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20173": {
         "Index": 20029,
@@ -11268,7 +12600,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20174": {
         "Index": 20030,
@@ -11281,7 +12615,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20175": {
         "Index": 20031,
@@ -11294,7 +12630,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20176": {
         "Index": 20032,
@@ -11307,7 +12645,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20177": {
         "Index": 20033,
@@ -11320,7 +12660,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20178": {
         "Index": 20034,
@@ -11333,7 +12675,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20179": {
         "Index": 20035,
@@ -11346,7 +12690,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20180": {
         "Index": 20036,
@@ -11359,7 +12705,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20181": {
         "Index": 20037,
@@ -11372,7 +12720,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20182": {
         "Index": 20038,
@@ -11385,7 +12735,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20183": {
         "Index": 20039,
@@ -11398,7 +12750,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20184": {
         "Index": 20040,
@@ -11411,7 +12765,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20185": {
         "Index": 20041,
@@ -11424,7 +12780,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20186": {
         "Index": 20042,
@@ -11437,7 +12795,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20187": {
         "Index": 20043,
@@ -11450,7 +12810,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20188": {
         "Index": 20044,
@@ -11463,7 +12825,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20189": {
         "Index": 20045,
@@ -11476,7 +12840,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20190": {
         "Index": 20046,
@@ -11489,7 +12855,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20191": {
         "Index": 20047,
@@ -11502,7 +12870,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20192": {
         "Index": 20048,
@@ -11515,7 +12885,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20193": {
         "Index": 20049,
@@ -11528,7 +12900,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20194": {
         "Index": 20050,
@@ -11541,7 +12915,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20195": {
         "Index": 20051,
@@ -11554,7 +12930,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20196": {
         "Index": 20052,
@@ -11567,7 +12945,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20197": {
         "Index": 20053,
@@ -11580,7 +12960,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20198": {
         "Index": 20054,
@@ -11593,7 +12975,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20199": {
         "Index": 20055,
@@ -11606,7 +12990,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20200": {
         "Index": 20056,
@@ -11619,7 +13005,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20201": {
         "Index": 20057,
@@ -11632,7 +13020,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20202": {
         "Index": 20058,
@@ -11645,7 +13035,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20203": {
         "Index": 20059,
@@ -11658,7 +13050,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20204": {
         "Index": 20060,
@@ -11671,7 +13065,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20205": {
         "Index": 20061,
@@ -11684,7 +13080,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20206": {
         "Index": 20062,
@@ -11697,7 +13095,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20207": {
         "Index": 20063,
@@ -11710,7 +13110,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20208": {
         "Index": 20064,
@@ -11723,7 +13125,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20209": {
         "Index": 20065,
@@ -11736,7 +13140,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20210": {
         "Index": 20066,
@@ -11749,7 +13155,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20211": {
         "Index": 20067,
@@ -11762,7 +13170,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20212": {
         "Index": 20068,
@@ -11775,7 +13185,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20213": {
         "Index": 20069,
@@ -11788,7 +13200,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20214": {
         "Index": 20070,
@@ -11801,7 +13215,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20215": {
         "Index": 20071,
@@ -11814,7 +13230,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20216": {
         "Index": 20072,
@@ -11827,7 +13245,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20217": {
         "Index": 20073,
@@ -11840,7 +13260,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20218": {
         "Index": 20074,
@@ -11853,7 +13275,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20219": {
         "Index": 20075,
@@ -11866,7 +13290,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20220": {
         "Index": 20076,
@@ -11879,7 +13305,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20221": {
         "Index": 20077,
@@ -11892,7 +13320,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20222": {
         "Index": 20078,
@@ -11905,7 +13335,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20223": {
         "Index": 20079,
@@ -11918,7 +13350,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20224": {
         "Index": 20080,
@@ -11931,7 +13365,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20225": {
         "Index": 20081,
@@ -11944,7 +13380,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20226": {
         "Index": 20082,
@@ -11957,7 +13395,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20227": {
         "Index": 20083,
@@ -11970,7 +13410,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20228": {
         "Index": 20084,
@@ -11983,7 +13425,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20229": {
         "Index": 20085,
@@ -11996,7 +13440,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20230": {
         "Index": 20086,
@@ -12009,7 +13455,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20231": {
         "Index": 20087,
@@ -12022,7 +13470,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20232": {
         "Index": 20088,
@@ -12035,7 +13485,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20233": {
         "Index": 20089,
@@ -12048,7 +13500,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20234": {
         "Index": 20090,
@@ -12061,7 +13515,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20235": {
         "Index": 20091,
@@ -12074,7 +13530,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20236": {
         "Index": 20092,
@@ -12087,7 +13545,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20237": {
         "Index": 20093,
@@ -12100,7 +13560,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20238": {
         "Index": 20094,
@@ -12113,7 +13575,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20239": {
         "Index": 20095,
@@ -12126,7 +13590,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20524": {
         "Index": 614,
@@ -12142,7 +13608,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20528": {
         "Index": 20096,
@@ -12155,7 +13623,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.0",
+        "PatchName": "Stormblood"
     },
     "20785": {
         "Index": 616,
@@ -12171,7 +13641,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "20786": {
         "Index": 617,
@@ -12187,7 +13659,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "20787": {
         "Index": 618,
@@ -12203,7 +13677,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "20788": {
         "Index": 619,
@@ -12219,7 +13695,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "20789": {
         "Index": 620,
@@ -12235,7 +13713,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21174": {
         "Index": 621,
@@ -12251,7 +13731,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21175": {
         "Index": 622,
@@ -12267,7 +13749,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21176": {
         "Index": 623,
@@ -12283,7 +13767,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21177": {
         "Index": 624,
@@ -12299,7 +13785,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21178": {
         "Index": 625,
@@ -12315,7 +13803,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21179": {
         "Index": 20097,
@@ -12328,7 +13818,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "21180": {
         "Index": 20098,
@@ -12341,7 +13833,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.1",
+        "PatchName": "TheLegendReturns"
     },
     "22389": {
         "Index": 627,
@@ -12357,7 +13851,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22390": {
         "Index": 632,
@@ -12373,7 +13869,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22391": {
         "Index": 628,
@@ -12389,7 +13887,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22392": {
         "Index": 626,
@@ -12405,7 +13905,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22393": {
         "Index": 633,
@@ -12421,7 +13923,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22394": {
         "Index": 629,
@@ -12437,7 +13941,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22395": {
         "Index": 631,
@@ -12453,7 +13959,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22396": {
         "Index": 630,
@@ -12469,7 +13977,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22397": {
         "Index": 634,
@@ -12485,7 +13995,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22398": {
         "Index": 635,
@@ -12501,7 +14013,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.2",
+        "PatchName": "RiseOfANewSun"
     },
     "22668": {
         "Index": 15029,
@@ -12514,7 +14028,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22669": {
         "Index": 15030,
@@ -12527,7 +14043,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22670": {
         "Index": 15031,
@@ -12540,7 +14058,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22671": {
         "Index": 15032,
@@ -12553,7 +14073,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22672": {
         "Index": 15033,
@@ -12566,7 +14088,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22673": {
         "Index": 15034,
@@ -12579,7 +14103,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22674": {
         "Index": 15035,
@@ -12592,7 +14118,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22675": {
         "Index": 15036,
@@ -12605,7 +14133,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22676": {
         "Index": 15037,
@@ -12618,7 +14148,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22677": {
         "Index": 15038,
@@ -12631,7 +14163,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22678": {
         "Index": 15039,
@@ -12644,7 +14178,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22679": {
         "Index": 15040,
@@ -12657,7 +14193,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22680": {
         "Index": 15041,
@@ -12670,7 +14208,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22681": {
         "Index": 15042,
@@ -12683,7 +14223,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22682": {
         "Index": 15043,
@@ -12696,7 +14238,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22683": {
         "Index": 15044,
@@ -12709,7 +14253,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22684": {
         "Index": 15045,
@@ -12722,7 +14268,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22685": {
         "Index": 15046,
@@ -12735,7 +14283,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22686": {
         "Index": 15047,
@@ -12748,7 +14298,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22687": {
         "Index": 15048,
@@ -12761,7 +14313,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22688": {
         "Index": 15049,
@@ -12774,7 +14328,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22689": {
         "Index": 15050,
@@ -12787,7 +14343,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22690": {
         "Index": 15051,
@@ -12800,7 +14358,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22691": {
         "Index": 15052,
@@ -12813,7 +14373,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22692": {
         "Index": 15053,
@@ -12826,7 +14388,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "22693": {
         "Index": 15054,
@@ -12839,7 +14403,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "23054": {
         "Index": 636,
@@ -12855,7 +14421,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23055": {
         "Index": 637,
@@ -12871,7 +14439,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23056": {
         "Index": 638,
@@ -12887,7 +14457,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23057": {
         "Index": 639,
@@ -12903,7 +14475,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23058": {
         "Index": 640,
@@ -12919,7 +14493,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23059": {
         "Index": 641,
@@ -12935,7 +14511,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23060": {
         "Index": 642,
@@ -12951,7 +14529,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23061": {
         "Index": 643,
@@ -12967,7 +14547,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23062": {
         "Index": 644,
@@ -12983,7 +14565,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23063": {
         "Index": 645,
@@ -12999,7 +14583,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23064": {
         "Index": 646,
@@ -13015,7 +14601,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23065": {
         "Index": 647,
@@ -13031,7 +14619,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23066": {
         "Index": 648,
@@ -13047,7 +14637,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23067": {
         "Index": 649,
@@ -13063,7 +14655,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23068": {
         "Index": 650,
@@ -13079,7 +14673,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23069": {
         "Index": 651,
@@ -13095,7 +14691,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23070": {
         "Index": 652,
@@ -13111,7 +14709,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23071": {
         "Index": 653,
@@ -13127,7 +14727,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23072": {
         "Index": 654,
@@ -13143,7 +14745,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23073": {
         "Index": 655,
@@ -13159,7 +14763,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23074": {
         "Index": 656,
@@ -13175,7 +14781,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23075": {
         "Index": 657,
@@ -13191,7 +14799,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.3",
+        "PatchName": "UnderTheMoonlight"
     },
     "23171": {
         "Index": 15055,
@@ -13204,7 +14814,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "24203": {
         "Index": 658,
@@ -13220,7 +14832,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24204": {
         "Index": 659,
@@ -13236,7 +14850,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24205": {
         "Index": 660,
@@ -13252,7 +14868,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24206": {
         "Index": 661,
@@ -13268,7 +14886,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24207": {
         "Index": 662,
@@ -13284,7 +14904,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24208": {
         "Index": 663,
@@ -13300,7 +14922,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24209": {
         "Index": 664,
@@ -13316,7 +14940,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24210": {
         "Index": 665,
@@ -13332,7 +14958,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24211": {
         "Index": 666,
@@ -13348,7 +14976,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24212": {
         "Index": 667,
@@ -13364,7 +14994,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24213": {
         "Index": 668,
@@ -13380,7 +15012,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24214": {
         "Index": 669,
@@ -13396,7 +15030,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24215": {
         "Index": 670,
@@ -13412,7 +15048,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24216": {
         "Index": 671,
@@ -13428,7 +15066,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24217": {
         "Index": 672,
@@ -13444,7 +15084,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24218": {
         "Index": 673,
@@ -13460,7 +15102,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.4",
+        "PatchName": "PreludeInViolet"
     },
     "24557": {
         "Index": 687,
@@ -13476,7 +15120,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24558": {
         "Index": 688,
@@ -13492,7 +15138,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24559": {
         "Index": 689,
@@ -13508,7 +15156,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24560": {
         "Index": 690,
@@ -13524,7 +15174,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24561": {
         "Index": 691,
@@ -13540,7 +15192,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24881": {
         "Index": 674,
@@ -13556,7 +15210,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24882": {
         "Index": 675,
@@ -13572,7 +15228,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24883": {
         "Index": 676,
@@ -13588,7 +15246,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24884": {
         "Index": 677,
@@ -13604,7 +15264,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24885": {
         "Index": 678,
@@ -13620,7 +15282,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24886": {
         "Index": 679,
@@ -13636,7 +15300,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24887": {
         "Index": 680,
@@ -13652,7 +15318,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24888": {
         "Index": 681,
@@ -13668,7 +15336,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24889": {
         "Index": 682,
@@ -13684,7 +15354,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24890": {
         "Index": 683,
@@ -13700,7 +15372,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24891": {
         "Index": 684,
@@ -13716,7 +15390,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24892": {
         "Index": 685,
@@ -13732,7 +15408,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24893": {
         "Index": 686,
@@ -13748,7 +15426,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24990": {
         "Index": 693,
@@ -13764,7 +15444,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24991": {
         "Index": 694,
@@ -13780,7 +15462,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24992": {
         "Index": 695,
@@ -13796,7 +15480,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24993": {
         "Index": 696,
@@ -13812,7 +15498,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24994": {
         "Index": 692,
@@ -13828,7 +15516,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "24995": {
         "Index": 697,
@@ -13844,7 +15534,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "4.5",
+        "PatchName": "ARequiemForHeroes"
     },
     "26744": {
         "Index": 15056,
@@ -13857,7 +15549,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "26745": {
         "Index": 15057,
@@ -13870,7 +15564,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "26746": {
         "Index": 698,
@@ -13886,7 +15582,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "26747": {
         "Index": 744,
@@ -13902,7 +15600,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "26748": {
         "Index": 764,
@@ -13918,7 +15618,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "26749": {
         "Index": 782,
@@ -13934,7 +15636,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "26750": {
         "Index": 15027,
@@ -13947,7 +15651,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "26751": {
         "Index": 15028,
@@ -13960,7 +15666,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "27410": {
         "Index": 720,
@@ -13976,7 +15684,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27411": {
         "Index": 700,
@@ -13994,7 +15704,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27412": {
         "Index": 701,
@@ -14010,7 +15722,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27413": {
         "Index": 722,
@@ -14026,7 +15740,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27414": {
         "Index": 719,
@@ -14042,7 +15758,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27415": {
         "Index": 721,
@@ -14058,7 +15776,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27416": {
         "Index": 740,
@@ -14074,7 +15794,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27417": {
         "Index": 699,
@@ -14092,7 +15814,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27418": {
         "Index": 741,
@@ -14108,7 +15832,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27419": {
         "Index": 723,
@@ -14124,7 +15850,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27420": {
         "Index": 724,
@@ -14140,7 +15868,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27421": {
         "Index": 742,
@@ -14156,7 +15886,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27422": {
         "Index": 725,
@@ -14172,7 +15904,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27423": {
         "Index": 753,
@@ -14188,7 +15922,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27424": {
         "Index": 754,
@@ -14204,7 +15940,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27425": {
         "Index": 702,
@@ -14224,7 +15962,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27426": {
         "Index": 706,
@@ -14241,7 +15981,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27427": {
         "Index": 703,
@@ -14258,7 +16000,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27428": {
         "Index": 704,
@@ -14275,7 +16019,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27429": {
         "Index": 705,
@@ -14292,7 +16038,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27430": {
         "Index": 707,
@@ -14309,7 +16057,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27431": {
         "Index": 709,
@@ -14325,7 +16075,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27432": {
         "Index": 792,
@@ -14341,7 +16093,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27433": {
         "Index": 726,
@@ -14357,7 +16111,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27434": {
         "Index": 728,
@@ -14373,7 +16129,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27435": {
         "Index": 727,
@@ -14389,7 +16147,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27436": {
         "Index": 708,
@@ -14405,7 +16165,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27437": {
         "Index": 743,
@@ -14421,7 +16183,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27438": {
         "Index": 710,
@@ -14440,7 +16204,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27439": {
         "Index": 711,
@@ -14458,7 +16224,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27440": {
         "Index": 712,
@@ -14476,7 +16244,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27441": {
         "Index": 775,
@@ -14492,7 +16262,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27442": {
         "Index": 781,
@@ -14508,7 +16280,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27443": {
         "Index": 729,
@@ -14524,7 +16298,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27444": {
         "Index": 730,
@@ -14540,7 +16316,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27445": {
         "Index": 731,
@@ -14556,7 +16334,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27446": {
         "Index": 715,
@@ -14573,7 +16353,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27447": {
         "Index": 716,
@@ -14590,7 +16372,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27448": {
         "Index": 714,
@@ -14607,7 +16391,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27449": {
         "Index": 713,
@@ -14625,7 +16411,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27450": {
         "Index": 735,
@@ -14641,7 +16429,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27451": {
         "Index": 717,
@@ -14657,7 +16447,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27452": {
         "Index": 733,
@@ -14673,7 +16465,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27453": {
         "Index": 745,
@@ -14689,7 +16483,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27454": {
         "Index": 734,
@@ -14705,7 +16501,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27455": {
         "Index": 736,
@@ -14721,7 +16519,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27456": {
         "Index": 793,
@@ -14737,7 +16537,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27457": {
         "Index": 732,
@@ -14753,7 +16555,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27458": {
         "Index": 737,
@@ -14770,7 +16574,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27459": {
         "Index": 738,
@@ -14788,7 +16594,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27460": {
         "Index": 746,
@@ -14805,7 +16613,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27461": {
         "Index": 747,
@@ -14822,7 +16632,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27462": {
         "Index": 718,
@@ -14838,7 +16650,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27463": {
         "Index": 739,
@@ -14854,7 +16668,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27464": {
         "Index": 783,
@@ -14870,7 +16686,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27465": {
         "Index": 771,
@@ -14886,7 +16704,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27466": {
         "Index": 776,
@@ -14902,7 +16722,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27467": {
         "Index": 794,
@@ -14918,7 +16740,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27468": {
         "Index": 756,
@@ -14934,7 +16758,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27469": {
         "Index": 751,
@@ -14952,7 +16778,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27470": {
         "Index": 748,
@@ -14974,7 +16802,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27471": {
         "Index": 750,
@@ -14991,7 +16821,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27472": {
         "Index": 755,
@@ -15009,7 +16841,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27473": {
         "Index": 752,
@@ -15025,7 +16859,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27474": {
         "Index": 765,
@@ -15041,7 +16877,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27475": {
         "Index": 757,
@@ -15057,7 +16895,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27476": {
         "Index": 758,
@@ -15073,7 +16913,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27477": {
         "Index": 759,
@@ -15089,7 +16931,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27478": {
         "Index": 766,
@@ -15105,7 +16949,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27479": {
         "Index": 749,
@@ -15125,7 +16971,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27480": {
         "Index": 760,
@@ -15141,7 +16989,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27481": {
         "Index": 795,
@@ -15157,7 +17007,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27482": {
         "Index": 761,
@@ -15178,7 +17030,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27483": {
         "Index": 778,
@@ -15194,7 +17048,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27484": {
         "Index": 770,
@@ -15211,7 +17067,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27485": {
         "Index": 768,
@@ -15228,7 +17086,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27486": {
         "Index": 762,
@@ -15248,7 +17108,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27487": {
         "Index": 763,
@@ -15265,7 +17127,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27488": {
         "Index": 769,
@@ -15282,7 +17146,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27489": {
         "Index": 767,
@@ -15299,7 +17165,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27490": {
         "Index": 772,
@@ -15315,7 +17183,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27491": {
         "Index": 773,
@@ -15331,7 +17201,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27492": {
         "Index": 774,
@@ -15347,7 +17219,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27493": {
         "Index": 777,
@@ -15363,7 +17237,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27494": {
         "Index": 796,
@@ -15379,7 +17255,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27495": {
         "Index": 787,
@@ -15396,7 +17274,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27496": {
         "Index": 780,
@@ -15416,7 +17296,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27497": {
         "Index": 779,
@@ -15438,7 +17320,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27498": {
         "Index": 786,
@@ -15455,7 +17339,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27499": {
         "Index": 788,
@@ -15473,7 +17359,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27500": {
         "Index": 797,
@@ -15490,7 +17378,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27501": {
         "Index": 798,
@@ -15506,7 +17396,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27502": {
         "Index": 806,
@@ -15522,7 +17414,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27503": {
         "Index": 801,
@@ -15538,7 +17432,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27504": {
         "Index": 791,
@@ -15554,7 +17450,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27505": {
         "Index": 802,
@@ -15570,7 +17468,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27506": {
         "Index": 789,
@@ -15586,7 +17486,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27507": {
         "Index": 799,
@@ -15602,7 +17504,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27508": {
         "Index": 807,
@@ -15618,7 +17522,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27509": {
         "Index": 790,
@@ -15634,7 +17540,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27510": {
         "Index": 804,
@@ -15650,7 +17558,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27511": {
         "Index": 784,
@@ -15666,7 +17576,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27512": {
         "Index": 803,
@@ -15682,7 +17594,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27513": {
         "Index": 785,
@@ -15698,7 +17612,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27514": {
         "Index": 800,
@@ -15714,7 +17630,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27515": {
         "Index": 805,
@@ -15730,7 +17648,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27516": {
         "Index": 20099,
@@ -15743,7 +17663,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27517": {
         "Index": 20100,
@@ -15756,7 +17678,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27518": {
         "Index": 20101,
@@ -15769,7 +17693,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27519": {
         "Index": 20108,
@@ -15782,7 +17708,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27520": {
         "Index": 20102,
@@ -15795,7 +17723,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27521": {
         "Index": 20109,
@@ -15808,7 +17738,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27522": {
         "Index": 20103,
@@ -15821,7 +17753,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27523": {
         "Index": 20110,
@@ -15834,7 +17768,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27524": {
         "Index": 20111,
@@ -15847,7 +17783,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27525": {
         "Index": 20112,
@@ -15860,7 +17798,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27526": {
         "Index": 20116,
@@ -15873,7 +17813,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27527": {
         "Index": 20113,
@@ -15886,7 +17828,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27528": {
         "Index": 20104,
@@ -15899,7 +17843,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27529": {
         "Index": 20105,
@@ -15912,7 +17858,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27530": {
         "Index": 20114,
@@ -15925,7 +17873,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27531": {
         "Index": 20115,
@@ -15938,7 +17888,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27532": {
         "Index": 20117,
@@ -15951,7 +17903,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27533": {
         "Index": 20106,
@@ -15964,7 +17918,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27534": {
         "Index": 20154,
@@ -15977,7 +17933,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27535": {
         "Index": 20160,
@@ -15990,7 +17948,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27536": {
         "Index": 20107,
@@ -16003,7 +17963,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27537": {
         "Index": 20118,
@@ -16016,7 +17978,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27538": {
         "Index": 20120,
@@ -16029,7 +17993,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27539": {
         "Index": 20119,
@@ -16042,7 +18008,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27540": {
         "Index": 20121,
@@ -16055,7 +18023,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27541": {
         "Index": 20122,
@@ -16068,7 +18038,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27542": {
         "Index": 20126,
@@ -16081,7 +18053,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27543": {
         "Index": 20127,
@@ -16094,7 +18068,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27544": {
         "Index": 20123,
@@ -16107,7 +18083,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27545": {
         "Index": 20128,
@@ -16120,7 +18098,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27546": {
         "Index": 20124,
@@ -16133,7 +18113,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27547": {
         "Index": 20125,
@@ -16146,7 +18128,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27548": {
         "Index": 20129,
@@ -16159,7 +18143,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27549": {
         "Index": 20130,
@@ -16172,7 +18158,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27550": {
         "Index": 20131,
@@ -16185,7 +18173,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27551": {
         "Index": 20142,
@@ -16198,7 +18188,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27552": {
         "Index": 20132,
@@ -16211,7 +18203,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27553": {
         "Index": 20133,
@@ -16224,7 +18218,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27554": {
         "Index": 20134,
@@ -16237,7 +18233,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27555": {
         "Index": 20135,
@@ -16250,7 +18248,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27556": {
         "Index": 20136,
@@ -16263,7 +18263,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27557": {
         "Index": 20137,
@@ -16276,7 +18278,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27558": {
         "Index": 20143,
@@ -16289,7 +18293,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27559": {
         "Index": 20144,
@@ -16302,7 +18308,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27560": {
         "Index": 20145,
@@ -16315,7 +18323,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27561": {
         "Index": 20146,
@@ -16328,7 +18338,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27562": {
         "Index": 20148,
@@ -16341,7 +18353,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27563": {
         "Index": 20149,
@@ -16354,7 +18368,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27564": {
         "Index": 20150,
@@ -16367,7 +18383,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27565": {
         "Index": 20151,
@@ -16380,7 +18398,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27566": {
         "Index": 20161,
@@ -16393,7 +18413,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27567": {
         "Index": 20155,
@@ -16406,7 +18428,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27568": {
         "Index": 20138,
@@ -16419,7 +18443,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27569": {
         "Index": 20139,
@@ -16432,7 +18458,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27570": {
         "Index": 20140,
@@ -16445,7 +18473,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27571": {
         "Index": 20141,
@@ -16458,7 +18488,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27572": {
         "Index": 20156,
@@ -16471,7 +18503,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27573": {
         "Index": 20162,
@@ -16484,7 +18518,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27574": {
         "Index": 20152,
@@ -16497,7 +18533,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27575": {
         "Index": 20157,
@@ -16510,7 +18548,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27576": {
         "Index": 20153,
@@ -16523,7 +18563,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27577": {
         "Index": 20147,
@@ -16536,7 +18578,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27578": {
         "Index": 20158,
@@ -16549,7 +18593,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27579": {
         "Index": 20163,
@@ -16562,7 +18608,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27580": {
         "Index": 20164,
@@ -16575,7 +18623,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "27581": {
         "Index": 20159,
@@ -16588,7 +18638,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.0",
+        "PatchName": "Shadowbringers"
     },
     "28065": {
         "Index": 809,
@@ -16604,7 +18656,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28066": {
         "Index": 810,
@@ -16620,7 +18674,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28067": {
         "Index": 811,
@@ -16636,7 +18692,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28068": {
         "Index": 812,
@@ -16652,7 +18710,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28069": {
         "Index": 813,
@@ -16668,7 +18728,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28070": {
         "Index": 814,
@@ -16684,7 +18746,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28071": {
         "Index": 815,
@@ -16700,7 +18764,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28072": {
         "Index": 816,
@@ -16716,7 +18782,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28189": {
         "Index": 817,
@@ -16732,7 +18800,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28190": {
         "Index": 818,
@@ -16748,7 +18818,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28191": {
         "Index": 819,
@@ -16764,7 +18836,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28192": {
         "Index": 820,
@@ -16780,7 +18854,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28193": {
         "Index": 821,
@@ -16796,7 +18872,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28719": {
         "Index": 808,
@@ -16812,7 +18890,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.1",
+        "PatchName": "VowsOfVirtueDeedsOfCruelty"
     },
     "28925": {
         "Index": 822,
@@ -16828,7 +18908,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28926": {
         "Index": 823,
@@ -16844,7 +18926,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28927": {
         "Index": 824,
@@ -16860,7 +18944,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28928": {
         "Index": 825,
@@ -16876,7 +18962,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28929": {
         "Index": 826,
@@ -16892,7 +18980,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28930": {
         "Index": 827,
@@ -16908,7 +18998,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28937": {
         "Index": 828,
@@ -16924,7 +19016,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28938": {
         "Index": 829,
@@ -16940,7 +19034,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28939": {
         "Index": 842,
@@ -16956,7 +19052,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28940": {
         "Index": 844,
@@ -16972,7 +19070,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28941": {
         "Index": 833,
@@ -16988,7 +19088,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "28942": {
         "Index": 841,
@@ -17004,7 +19106,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29564": {
         "Index": 15059,
@@ -17017,7 +19121,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29565": {
         "Index": 15060,
@@ -17030,7 +19136,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29566": {
         "Index": 15061,
@@ -17043,7 +19151,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29567": {
         "Index": 15062,
@@ -17056,7 +19166,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29568": {
         "Index": 15063,
@@ -17069,7 +19181,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29569": {
         "Index": 15064,
@@ -17082,7 +19196,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29570": {
         "Index": 15065,
@@ -17095,7 +19211,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29571": {
         "Index": 15066,
@@ -17108,7 +19226,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29572": {
         "Index": 15067,
@@ -17121,21 +19241,27 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29573": {
         "Index": 30005,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Splendid Piranha",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "29574": {
         "Index": 30006,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Splendid Pirarucu",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "29575": {
         "Index": 15068,
@@ -17148,7 +19274,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29576": {
         "Index": 15069,
@@ -17161,7 +19289,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29577": {
         "Index": 15070,
@@ -17174,21 +19304,27 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29578": {
         "Index": 30007,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Splendid Sponge",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "29579": {
         "Index": 30008,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Splendid Cockle",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "29580": {
         "Index": 15071,
@@ -17201,14 +19337,18 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29581": {
         "Index": 30009,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Splendid Night's Bass",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "29582": {
         "Index": 15072,
@@ -17221,7 +19361,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29583": {
         "Index": 15073,
@@ -17234,7 +19376,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29584": {
         "Index": 15074,
@@ -17247,7 +19391,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29585": {
         "Index": 15075,
@@ -17260,7 +19406,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29586": {
         "Index": 15076,
@@ -17273,7 +19421,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29587": {
         "Index": 15077,
@@ -17286,7 +19436,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29588": {
         "Index": 15078,
@@ -17299,14 +19451,18 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29589": {
         "Index": 30010,
         "WeatherRestricted": 0,
         "TimeRestricted": 0,
         "FishName": "Splendid Mammoth Shellfish",
-        "SpearFishSize": null
+        "SpearFishSize": null,
+        "Patch": null,
+        "PatchName": null
     },
     "29673": {
         "Index": 908,
@@ -17322,7 +19478,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29678": {
         "Index": 909,
@@ -17338,7 +19496,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29718": {
         "Index": 849,
@@ -17354,7 +19514,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29719": {
         "Index": 840,
@@ -17370,7 +19532,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29720": {
         "Index": 858,
@@ -17386,7 +19550,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29721": {
         "Index": 853,
@@ -17402,7 +19568,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29722": {
         "Index": 831,
@@ -17418,7 +19586,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29723": {
         "Index": 832,
@@ -17434,7 +19604,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29724": {
         "Index": 843,
@@ -17450,7 +19622,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29725": {
         "Index": 845,
@@ -17466,7 +19640,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29726": {
         "Index": 854,
@@ -17482,7 +19658,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29727": {
         "Index": 855,
@@ -17498,7 +19676,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29728": {
         "Index": 834,
@@ -17514,7 +19694,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29729": {
         "Index": 835,
@@ -17530,7 +19712,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29730": {
         "Index": 836,
@@ -17546,7 +19730,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29731": {
         "Index": 846,
@@ -17562,7 +19748,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29732": {
         "Index": 857,
@@ -17578,7 +19766,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29733": {
         "Index": 848,
@@ -17594,7 +19784,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29734": {
         "Index": 852,
@@ -17610,7 +19802,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29735": {
         "Index": 847,
@@ -17626,7 +19820,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29736": {
         "Index": 837,
@@ -17642,7 +19838,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29737": {
         "Index": 838,
@@ -17658,7 +19856,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29738": {
         "Index": 839,
@@ -17674,7 +19874,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29739": {
         "Index": 830,
@@ -17690,7 +19892,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29740": {
         "Index": 850,
@@ -17706,7 +19910,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29741": {
         "Index": 851,
@@ -17722,7 +19928,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29742": {
         "Index": 856,
@@ -17738,7 +19946,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29743": {
         "Index": 859,
@@ -17754,7 +19964,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29744": {
         "Index": 860,
@@ -17770,7 +19982,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29745": {
         "Index": 861,
@@ -17786,7 +20000,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29746": {
         "Index": 862,
@@ -17802,7 +20018,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29747": {
         "Index": 863,
@@ -17818,7 +20036,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29748": {
         "Index": 891,
@@ -17834,7 +20054,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29749": {
         "Index": 865,
@@ -17850,7 +20072,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29750": {
         "Index": 866,
@@ -17866,7 +20090,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29751": {
         "Index": 867,
@@ -17882,7 +20108,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29752": {
         "Index": 868,
@@ -17898,7 +20126,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29753": {
         "Index": 869,
@@ -17914,7 +20144,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29754": {
         "Index": 870,
@@ -17930,7 +20162,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29755": {
         "Index": 871,
@@ -17946,7 +20180,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29756": {
         "Index": 872,
@@ -17962,7 +20198,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29757": {
         "Index": 873,
@@ -17978,7 +20216,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29758": {
         "Index": 874,
@@ -17994,7 +20234,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29759": {
         "Index": 875,
@@ -18010,7 +20252,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29760": {
         "Index": 878,
@@ -18026,7 +20270,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29761": {
         "Index": 877,
@@ -18042,7 +20288,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29762": {
         "Index": 896,
@@ -18058,7 +20306,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29763": {
         "Index": 879,
@@ -18074,7 +20324,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29764": {
         "Index": 880,
@@ -18090,7 +20342,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29765": {
         "Index": 881,
@@ -18106,7 +20360,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29766": {
         "Index": 864,
@@ -18122,7 +20378,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29767": {
         "Index": 883,
@@ -18138,7 +20396,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29768": {
         "Index": 884,
@@ -18154,7 +20414,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29769": {
         "Index": 885,
@@ -18170,7 +20432,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29770": {
         "Index": 886,
@@ -18186,7 +20450,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29771": {
         "Index": 887,
@@ -18202,7 +20468,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29772": {
         "Index": 888,
@@ -18218,7 +20486,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29773": {
         "Index": 895,
@@ -18234,7 +20504,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29774": {
         "Index": 890,
@@ -18250,7 +20522,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29775": {
         "Index": 882,
@@ -18266,7 +20540,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29776": {
         "Index": 892,
@@ -18282,7 +20558,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29777": {
         "Index": 893,
@@ -18298,7 +20576,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29778": {
         "Index": 894,
@@ -18314,7 +20594,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29779": {
         "Index": 876,
@@ -18330,7 +20612,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29780": {
         "Index": 889,
@@ -18346,7 +20630,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29781": {
         "Index": 897,
@@ -18362,7 +20648,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29782": {
         "Index": 898,
@@ -18378,7 +20666,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29783": {
         "Index": 899,
@@ -18394,7 +20684,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29784": {
         "Index": 900,
@@ -18410,7 +20702,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29785": {
         "Index": 901,
@@ -18426,7 +20720,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29786": {
         "Index": 902,
@@ -18442,7 +20738,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29787": {
         "Index": 903,
@@ -18458,7 +20756,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29788": {
         "Index": 904,
@@ -18474,7 +20774,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29789": {
         "Index": 905,
@@ -18490,7 +20792,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29790": {
         "Index": 906,
@@ -18506,7 +20810,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29791": {
         "Index": 907,
@@ -18522,7 +20828,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.2",
+        "PatchName": "EchoesOfAFallenStar"
     },
     "29994": {
         "Index": 15081,
@@ -18535,7 +20843,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29995": {
         "Index": 15082,
@@ -18548,7 +20858,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29996": {
         "Index": 15083,
@@ -18561,7 +20873,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29997": {
         "Index": 15084,
@@ -18574,7 +20888,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29998": {
         "Index": 15085,
@@ -18587,7 +20903,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "29999": {
         "Index": 15086,
@@ -18600,7 +20918,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30000": {
         "Index": 15087,
@@ -18613,7 +20933,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30001": {
         "Index": 15088,
@@ -18626,7 +20948,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30002": {
         "Index": 15089,
@@ -18642,7 +20966,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30003": {
         "Index": 15090,
@@ -18658,7 +20984,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30004": {
         "Index": 15091,
@@ -18671,7 +20999,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30005": {
         "Index": 15092,
@@ -18687,7 +21017,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30006": {
         "Index": 15093,
@@ -18703,7 +21035,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30007": {
         "Index": 15094,
@@ -18719,7 +21053,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30008": {
         "Index": 15095,
@@ -18735,7 +21071,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30009": {
         "Index": 15096,
@@ -18752,7 +21090,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30010": {
         "Index": 15097,
@@ -18768,7 +21108,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30011": {
         "Index": 15098,
@@ -18784,7 +21126,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30012": {
         "Index": 15099,
@@ -18800,7 +21144,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30013": {
         "Index": 15100,
@@ -18817,7 +21163,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "30432": {
         "Index": 912,
@@ -18833,7 +21181,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30433": {
         "Index": 913,
@@ -18849,7 +21199,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30434": {
         "Index": 914,
@@ -18865,7 +21217,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30435": {
         "Index": 915,
@@ -18881,7 +21235,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30436": {
         "Index": 916,
@@ -18897,7 +21253,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30437": {
         "Index": 917,
@@ -18913,7 +21271,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30438": {
         "Index": 918,
@@ -18929,7 +21289,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30439": {
         "Index": 919,
@@ -18945,7 +21307,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30487": {
         "Index": 910,
@@ -18961,7 +21325,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30488": {
         "Index": 920,
@@ -18977,7 +21343,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30489": {
         "Index": 921,
@@ -18993,7 +21361,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30490": {
         "Index": 922,
@@ -19009,7 +21379,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30491": {
         "Index": 923,
@@ -19025,7 +21397,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30492": {
         "Index": 924,
@@ -19041,7 +21415,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "30593": {
         "Index": 911,
@@ -19057,7 +21433,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "31129": {
         "Index": 925,
@@ -19073,7 +21451,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "31134": {
         "Index": 926,
@@ -19089,7 +21469,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.3",
+        "PatchName": "ReflectionsInCrystal"
     },
     "31578": {
         "Index": 15101,
@@ -19102,7 +21484,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31579": {
         "Index": 15102,
@@ -19115,7 +21499,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31580": {
         "Index": 15103,
@@ -19128,7 +21514,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31581": {
         "Index": 15104,
@@ -19141,7 +21529,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31582": {
         "Index": 15105,
@@ -19154,7 +21544,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31583": {
         "Index": 15106,
@@ -19167,7 +21559,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31584": {
         "Index": 15107,
@@ -19180,7 +21574,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31585": {
         "Index": 15108,
@@ -19193,7 +21589,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31586": {
         "Index": 15109,
@@ -19206,7 +21604,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31587": {
         "Index": 15110,
@@ -19219,7 +21619,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31588": {
         "Index": 15111,
@@ -19232,7 +21634,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31589": {
         "Index": 15112,
@@ -19245,7 +21649,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31590": {
         "Index": 15113,
@@ -19262,7 +21668,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31591": {
         "Index": 15114,
@@ -19279,7 +21687,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31592": {
         "Index": 15115,
@@ -19292,7 +21702,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31593": {
         "Index": 15116,
@@ -19305,7 +21717,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31594": {
         "Index": 15117,
@@ -19318,7 +21732,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31595": {
         "Index": 15118,
@@ -19331,7 +21747,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31596": {
         "Index": 15119,
@@ -19344,7 +21762,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31597": {
         "Index": 15120,
@@ -19357,7 +21777,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31598": {
         "Index": 15121,
@@ -19370,7 +21792,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31599": {
         "Index": 15122,
@@ -19383,7 +21807,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31600": {
         "Index": 15123,
@@ -19396,7 +21822,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31601": {
         "Index": 15124,
@@ -19409,7 +21837,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31602": {
         "Index": 15125,
@@ -19422,7 +21852,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31603": {
         "Index": 15126,
@@ -19435,7 +21867,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "31770": {
         "Index": 994,
@@ -19451,7 +21885,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "31771": {
         "Index": 993,
@@ -19467,7 +21903,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32049": {
         "Index": 927,
@@ -19483,7 +21921,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32050": {
         "Index": 928,
@@ -19499,7 +21939,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32051": {
         "Index": 929,
@@ -19515,7 +21957,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32052": {
         "Index": 930,
@@ -19531,7 +21975,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32053": {
         "Index": 931,
@@ -19547,7 +21993,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32054": {
         "Index": 932,
@@ -19563,7 +22011,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32055": {
         "Index": 933,
@@ -19579,7 +22029,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32056": {
         "Index": 934,
@@ -19595,7 +22047,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32057": {
         "Index": 935,
@@ -19611,7 +22065,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32058": {
         "Index": 942,
@@ -19627,7 +22083,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32059": {
         "Index": 943,
@@ -19643,7 +22101,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32060": {
         "Index": 944,
@@ -19659,7 +22119,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32061": {
         "Index": 951,
@@ -19675,7 +22137,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32062": {
         "Index": 952,
@@ -19691,7 +22155,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32063": {
         "Index": 987,
@@ -19707,7 +22173,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32064": {
         "Index": 957,
@@ -19723,7 +22191,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32065": {
         "Index": 960,
@@ -19739,7 +22209,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32066": {
         "Index": 961,
@@ -19755,7 +22227,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32067": {
         "Index": 962,
@@ -19771,7 +22245,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32068": {
         "Index": 963,
@@ -19787,7 +22263,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32069": {
         "Index": 964,
@@ -19803,7 +22281,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32070": {
         "Index": 965,
@@ -19819,7 +22299,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32071": {
         "Index": 966,
@@ -19835,7 +22317,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32072": {
         "Index": 967,
@@ -19851,7 +22335,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32073": {
         "Index": 968,
@@ -19867,7 +22353,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32074": {
         "Index": 990,
@@ -19883,7 +22371,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32075": {
         "Index": 936,
@@ -19899,7 +22389,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32076": {
         "Index": 937,
@@ -19915,7 +22407,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32077": {
         "Index": 938,
@@ -19931,7 +22425,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32078": {
         "Index": 945,
@@ -19947,7 +22443,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32079": {
         "Index": 946,
@@ -19963,7 +22461,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32080": {
         "Index": 947,
@@ -19979,7 +22479,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32081": {
         "Index": 953,
@@ -19995,7 +22497,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32082": {
         "Index": 954,
@@ -20011,7 +22515,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32083": {
         "Index": 988,
@@ -20027,7 +22533,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32084": {
         "Index": 958,
@@ -20043,7 +22551,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32085": {
         "Index": 969,
@@ -20059,7 +22569,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32086": {
         "Index": 970,
@@ -20075,7 +22587,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32087": {
         "Index": 971,
@@ -20091,7 +22605,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32088": {
         "Index": 972,
@@ -20107,7 +22623,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32089": {
         "Index": 973,
@@ -20123,7 +22641,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32090": {
         "Index": 974,
@@ -20139,7 +22659,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32091": {
         "Index": 975,
@@ -20155,7 +22677,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32092": {
         "Index": 976,
@@ -20171,7 +22695,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32093": {
         "Index": 977,
@@ -20187,7 +22713,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32094": {
         "Index": 991,
@@ -20203,7 +22731,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32095": {
         "Index": 939,
@@ -20219,7 +22749,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32096": {
         "Index": 940,
@@ -20235,7 +22767,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32097": {
         "Index": 941,
@@ -20251,7 +22785,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32098": {
         "Index": 948,
@@ -20267,7 +22803,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32099": {
         "Index": 949,
@@ -20283,7 +22821,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32100": {
         "Index": 950,
@@ -20299,7 +22839,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32101": {
         "Index": 955,
@@ -20315,7 +22857,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32102": {
         "Index": 956,
@@ -20331,7 +22875,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32103": {
         "Index": 989,
@@ -20347,7 +22893,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32104": {
         "Index": 959,
@@ -20363,7 +22911,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32105": {
         "Index": 978,
@@ -20379,7 +22929,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32106": {
         "Index": 979,
@@ -20395,7 +22947,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32107": {
         "Index": 980,
@@ -20411,7 +22965,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32108": {
         "Index": 981,
@@ -20427,7 +22983,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32109": {
         "Index": 982,
@@ -20443,7 +23001,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32110": {
         "Index": 983,
@@ -20459,7 +23019,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32111": {
         "Index": 984,
@@ -20475,7 +23037,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32112": {
         "Index": 985,
@@ -20491,7 +23055,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32113": {
         "Index": 986,
@@ -20507,7 +23073,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32114": {
         "Index": 992,
@@ -20523,7 +23091,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.4",
+        "PatchName": "FuturesRewritten"
     },
     "32882": {
         "Index": 15127,
@@ -20536,7 +23106,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32883": {
         "Index": 15128,
@@ -20549,7 +23121,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32884": {
         "Index": 15129,
@@ -20562,7 +23136,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32885": {
         "Index": 15130,
@@ -20575,7 +23151,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32886": {
         "Index": 15131,
@@ -20588,7 +23166,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32887": {
         "Index": 15132,
@@ -20601,7 +23181,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32888": {
         "Index": 15133,
@@ -20614,7 +23196,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32889": {
         "Index": 15134,
@@ -20627,7 +23211,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32890": {
         "Index": 15135,
@@ -20640,7 +23226,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32891": {
         "Index": 15136,
@@ -20653,7 +23241,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32892": {
         "Index": 15137,
@@ -20666,7 +23256,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32893": {
         "Index": 15138,
@@ -20679,7 +23271,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32894": {
         "Index": 15139,
@@ -20692,7 +23286,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32895": {
         "Index": 15140,
@@ -20705,7 +23301,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32896": {
         "Index": 15141,
@@ -20718,7 +23316,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32897": {
         "Index": 15142,
@@ -20731,7 +23331,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32898": {
         "Index": 15143,
@@ -20744,7 +23346,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32899": {
         "Index": 15144,
@@ -20757,7 +23361,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32900": {
         "Index": 15145,
@@ -20770,7 +23376,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32901": {
         "Index": 15146,
@@ -20783,7 +23391,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32902": {
         "Index": 15147,
@@ -20796,7 +23406,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32903": {
         "Index": 15148,
@@ -20809,7 +23421,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32904": {
         "Index": 15149,
@@ -20822,7 +23436,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32905": {
         "Index": 15150,
@@ -20835,7 +23451,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32906": {
         "Index": 15151,
@@ -20848,7 +23466,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "32907": {
         "Index": 15152,
@@ -20861,7 +23481,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "33219": {
         "Index": 1006,
@@ -20877,7 +23499,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33220": {
         "Index": 1007,
@@ -20893,7 +23517,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33221": {
         "Index": 1008,
@@ -20909,7 +23535,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33222": {
         "Index": 1009,
@@ -20925,7 +23553,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33223": {
         "Index": 1010,
@@ -20941,7 +23571,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33239": {
         "Index": 1011,
@@ -20957,7 +23589,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33240": {
         "Index": 1012,
@@ -20973,7 +23607,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33241": {
         "Index": 1013,
@@ -20989,7 +23625,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33242": {
         "Index": 1014,
@@ -21005,7 +23643,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33243": {
         "Index": 1015,
@@ -21021,7 +23661,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33244": {
         "Index": 1016,
@@ -21037,7 +23679,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33316": {
         "Index": 995,
@@ -21053,7 +23697,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33317": {
         "Index": 996,
@@ -21069,7 +23715,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33318": {
         "Index": 997,
@@ -21085,7 +23733,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33319": {
         "Index": 998,
@@ -21101,7 +23751,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33320": {
         "Index": 999,
@@ -21117,7 +23769,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33321": {
         "Index": 1000,
@@ -21133,7 +23787,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33322": {
         "Index": 1001,
@@ -21149,7 +23805,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33323": {
         "Index": 1002,
@@ -21165,7 +23823,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33324": {
         "Index": 1003,
@@ -21181,7 +23841,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33325": {
         "Index": 1004,
@@ -21197,7 +23859,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "33326": {
         "Index": 1005,
@@ -21213,7 +23877,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "5.5",
+        "PatchName": "DeathUntoDawn"
     },
     "35604": {
         "Index": 1032,
@@ -21229,7 +23895,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "35605": {
         "Index": 1055,
@@ -21245,7 +23913,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "35606": {
         "Index": 1078,
@@ -21262,7 +23932,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "35607": {
         "Index": 1104,
@@ -21278,7 +23950,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "35849": {
         "Index": 15153,
@@ -21291,7 +23965,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "35850": {
         "Index": 15154,
@@ -21304,7 +23980,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "36385": {
         "Index": 1017,
@@ -21320,7 +23998,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36386": {
         "Index": 1018,
@@ -21336,7 +24016,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36387": {
         "Index": 1019,
@@ -21352,7 +24034,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36388": {
         "Index": 1020,
@@ -21368,7 +24052,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36389": {
         "Index": 1021,
@@ -21384,7 +24070,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36390": {
         "Index": 1022,
@@ -21401,7 +24089,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36392": {
         "Index": 1023,
@@ -21417,7 +24107,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36393": {
         "Index": 1024,
@@ -21433,7 +24125,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36394": {
         "Index": 1025,
@@ -21449,7 +24143,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36395": {
         "Index": 1026,
@@ -21465,7 +24161,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36396": {
         "Index": 1027,
@@ -21481,7 +24179,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36397": {
         "Index": 1028,
@@ -21501,7 +24201,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36398": {
         "Index": 1029,
@@ -21520,7 +24222,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36399": {
         "Index": 1030,
@@ -21536,7 +24240,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36400": {
         "Index": 1031,
@@ -21552,7 +24258,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36402": {
         "Index": 1033,
@@ -21568,7 +24276,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36403": {
         "Index": 1034,
@@ -21584,7 +24294,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36404": {
         "Index": 1035,
@@ -21600,7 +24312,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36405": {
         "Index": 1036,
@@ -21616,7 +24330,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36407": {
         "Index": 1037,
@@ -21632,7 +24348,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36408": {
         "Index": 1038,
@@ -21648,7 +24366,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36409": {
         "Index": 1039,
@@ -21664,7 +24384,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36410": {
         "Index": 1040,
@@ -21680,7 +24402,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36411": {
         "Index": 1041,
@@ -21696,7 +24420,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36412": {
         "Index": 1042,
@@ -21712,7 +24438,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36414": {
         "Index": 1043,
@@ -21728,7 +24456,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36415": {
         "Index": 1044,
@@ -21744,7 +24474,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36417": {
         "Index": 1045,
@@ -21760,7 +24492,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36418": {
         "Index": 1046,
@@ -21776,7 +24510,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36419": {
         "Index": 1047,
@@ -21792,7 +24528,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36420": {
         "Index": 1048,
@@ -21810,7 +24548,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36421": {
         "Index": 1049,
@@ -21828,7 +24568,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36422": {
         "Index": 1050,
@@ -21844,7 +24586,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36423": {
         "Index": 1051,
@@ -21860,7 +24604,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36425": {
         "Index": 1052,
@@ -21876,7 +24622,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36426": {
         "Index": 1053,
@@ -21892,7 +24640,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36427": {
         "Index": 1054,
@@ -21908,7 +24658,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36430": {
         "Index": 1056,
@@ -21924,7 +24676,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36431": {
         "Index": 1057,
@@ -21940,7 +24694,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36432": {
         "Index": 1058,
@@ -21956,7 +24712,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36434": {
         "Index": 1059,
@@ -21972,7 +24730,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36435": {
         "Index": 1060,
@@ -21988,7 +24748,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36436": {
         "Index": 1061,
@@ -22007,7 +24769,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36438": {
         "Index": 1062,
@@ -22024,7 +24788,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36439": {
         "Index": 1063,
@@ -22040,7 +24806,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36440": {
         "Index": 1064,
@@ -22056,7 +24824,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36441": {
         "Index": 1065,
@@ -22072,7 +24842,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36442": {
         "Index": 1066,
@@ -22088,7 +24860,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36443": {
         "Index": 1067,
@@ -22105,7 +24879,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36444": {
         "Index": 1068,
@@ -22121,7 +24897,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36446": {
         "Index": 1069,
@@ -22137,7 +24915,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36447": {
         "Index": 1070,
@@ -22153,7 +24933,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36448": {
         "Index": 1071,
@@ -22169,7 +24951,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36449": {
         "Index": 1072,
@@ -22185,7 +24969,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36450": {
         "Index": 1073,
@@ -22201,7 +24987,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36451": {
         "Index": 1074,
@@ -22217,7 +25005,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36452": {
         "Index": 1075,
@@ -22233,7 +25023,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36453": {
         "Index": 1076,
@@ -22249,7 +25041,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36454": {
         "Index": 1077,
@@ -22265,7 +25059,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36456": {
         "Index": 1079,
@@ -22282,7 +25078,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36457": {
         "Index": 1080,
@@ -22298,7 +25096,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36458": {
         "Index": 1081,
@@ -22314,7 +25114,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36459": {
         "Index": 1082,
@@ -22330,7 +25132,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36460": {
         "Index": 1083,
@@ -22346,7 +25150,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36461": {
         "Index": 1084,
@@ -22362,7 +25168,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36462": {
         "Index": 1085,
@@ -22378,7 +25186,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36463": {
         "Index": 1086,
@@ -22394,7 +25204,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36465": {
         "Index": 1087,
@@ -22410,7 +25222,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36466": {
         "Index": 1088,
@@ -22426,7 +25240,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36467": {
         "Index": 1089,
@@ -22442,7 +25258,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36468": {
         "Index": 1090,
@@ -22459,7 +25277,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36470": {
         "Index": 1091,
@@ -22476,7 +25296,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36471": {
         "Index": 1092,
@@ -22492,7 +25314,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36472": {
         "Index": 1093,
@@ -22508,7 +25332,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36473": {
         "Index": 1094,
@@ -22524,7 +25350,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36475": {
         "Index": 1095,
@@ -22540,7 +25368,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36476": {
         "Index": 1096,
@@ -22558,7 +25388,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36477": {
         "Index": 1097,
@@ -22576,7 +25408,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36478": {
         "Index": 1098,
@@ -22592,7 +25426,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36479": {
         "Index": 1099,
@@ -22608,7 +25444,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36480": {
         "Index": 1100,
@@ -22624,7 +25462,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36481": {
         "Index": 1101,
@@ -22640,7 +25480,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36484": {
         "Index": 1102,
@@ -22656,7 +25498,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36485": {
         "Index": 1103,
@@ -22672,7 +25516,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36487": {
         "Index": 1105,
@@ -22690,7 +25536,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36488": {
         "Index": 1106,
@@ -22708,7 +25556,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36489": {
         "Index": 1107,
@@ -22724,7 +25574,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36491": {
         "Index": 1108,
@@ -22740,7 +25592,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36492": {
         "Index": 1109,
@@ -22756,7 +25610,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36494": {
         "Index": 1110,
@@ -22772,7 +25628,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36495": {
         "Index": 1111,
@@ -22788,7 +25646,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36496": {
         "Index": 1112,
@@ -22804,7 +25664,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36497": {
         "Index": 1113,
@@ -22820,7 +25682,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36499": {
         "Index": 1114,
@@ -22839,7 +25703,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36501": {
         "Index": 1115,
@@ -22857,7 +25723,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36502": {
         "Index": 1116,
@@ -22873,7 +25741,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36503": {
         "Index": 1117,
@@ -22895,7 +25765,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36505": {
         "Index": 1118,
@@ -22913,7 +25785,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36506": {
         "Index": 1119,
@@ -22931,7 +25805,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36507": {
         "Index": 1120,
@@ -22949,7 +25825,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36508": {
         "Index": 1121,
@@ -22966,7 +25844,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36509": {
         "Index": 1122,
@@ -22982,7 +25862,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36510": {
         "Index": 1123,
@@ -22998,7 +25880,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36511": {
         "Index": 1124,
@@ -23014,7 +25898,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36512": {
         "Index": 1125,
@@ -23030,7 +25916,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36513": {
         "Index": 1126,
@@ -23046,7 +25934,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36514": {
         "Index": 1127,
@@ -23062,7 +25952,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36515": {
         "Index": 1128,
@@ -23078,7 +25970,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36516": {
         "Index": 1129,
@@ -23094,7 +25988,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36517": {
         "Index": 1130,
@@ -23110,7 +26006,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36518": {
         "Index": 1131,
@@ -23126,7 +26024,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36519": {
         "Index": 1132,
@@ -23142,7 +26042,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36520": {
         "Index": 1133,
@@ -23158,7 +26060,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36521": {
         "Index": 1134,
@@ -23174,7 +26078,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36522": {
         "Index": 20165,
@@ -23187,7 +26093,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36523": {
         "Index": 20166,
@@ -23200,7 +26108,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36524": {
         "Index": 20167,
@@ -23213,7 +26123,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36525": {
         "Index": 20168,
@@ -23226,7 +26138,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36526": {
         "Index": 20169,
@@ -23239,7 +26153,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36527": {
         "Index": 20170,
@@ -23252,7 +26168,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36528": {
         "Index": 20189,
@@ -23265,7 +26183,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36529": {
         "Index": 20190,
@@ -23278,7 +26198,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36530": {
         "Index": 20191,
@@ -23291,7 +26213,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36531": {
         "Index": 20192,
@@ -23304,7 +26228,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36532": {
         "Index": 20193,
@@ -23317,7 +26243,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36533": {
         "Index": 20194,
@@ -23330,7 +26258,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36534": {
         "Index": 20195,
@@ -23343,7 +26273,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36535": {
         "Index": 20230,
@@ -23356,7 +26288,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36536": {
         "Index": 20197,
@@ -23369,7 +26303,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36537": {
         "Index": 20196,
@@ -23382,7 +26318,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36538": {
         "Index": 20199,
@@ -23395,7 +26333,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36539": {
         "Index": 20198,
@@ -23408,7 +26348,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36540": {
         "Index": 20201,
@@ -23421,7 +26363,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36541": {
         "Index": 20202,
@@ -23434,7 +26378,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36542": {
         "Index": 20203,
@@ -23447,7 +26393,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36543": {
         "Index": 20204,
@@ -23460,7 +26408,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36544": {
         "Index": 20205,
@@ -23473,7 +26423,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36545": {
         "Index": 20206,
@@ -23486,7 +26438,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36546": {
         "Index": 20228,
@@ -23499,7 +26453,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36547": {
         "Index": 20200,
@@ -23512,7 +26468,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36548": {
         "Index": 20171,
@@ -23525,7 +26483,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36549": {
         "Index": 20172,
@@ -23538,7 +26498,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36550": {
         "Index": 20173,
@@ -23551,7 +26513,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36551": {
         "Index": 20174,
@@ -23564,7 +26528,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36552": {
         "Index": 20175,
@@ -23577,7 +26543,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36553": {
         "Index": 20176,
@@ -23590,7 +26558,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36554": {
         "Index": 20177,
@@ -23603,7 +26573,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36555": {
         "Index": 20178,
@@ -23616,7 +26588,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36556": {
         "Index": 20179,
@@ -23629,7 +26603,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36557": {
         "Index": 20180,
@@ -23642,7 +26618,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36558": {
         "Index": 20181,
@@ -23655,7 +26633,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36559": {
         "Index": 20182,
@@ -23668,7 +26648,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36560": {
         "Index": 20183,
@@ -23681,7 +26663,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36561": {
         "Index": 20184,
@@ -23694,7 +26678,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36562": {
         "Index": 20185,
@@ -23707,7 +26693,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36563": {
         "Index": 20186,
@@ -23720,7 +26708,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36564": {
         "Index": 20187,
@@ -23733,7 +26723,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36565": {
         "Index": 20188,
@@ -23746,7 +26738,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36566": {
         "Index": 20207,
@@ -23759,7 +26753,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36567": {
         "Index": 20208,
@@ -23772,7 +26768,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36568": {
         "Index": 20225,
@@ -23785,7 +26783,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36569": {
         "Index": 20210,
@@ -23798,7 +26798,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36570": {
         "Index": 20211,
@@ -23811,7 +26813,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36571": {
         "Index": 20209,
@@ -23824,7 +26828,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36572": {
         "Index": 20213,
@@ -23837,7 +26843,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36573": {
         "Index": 20227,
@@ -23850,7 +26858,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36574": {
         "Index": 20215,
@@ -23863,7 +26873,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36575": {
         "Index": 20214,
@@ -23876,7 +26888,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36576": {
         "Index": 20217,
@@ -23889,7 +26903,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36577": {
         "Index": 20216,
@@ -23902,7 +26918,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36578": {
         "Index": 20226,
@@ -23915,7 +26933,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36579": {
         "Index": 20218,
@@ -23928,7 +26948,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36580": {
         "Index": 20229,
@@ -23941,7 +26963,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36581": {
         "Index": 20212,
@@ -23954,7 +26978,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36582": {
         "Index": 20219,
@@ -23967,7 +26993,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36583": {
         "Index": 20220,
@@ -23980,7 +27008,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36584": {
         "Index": 20221,
@@ -23993,7 +27023,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36585": {
         "Index": 20222,
@@ -24006,7 +27038,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36586": {
         "Index": 20223,
@@ -24019,7 +27053,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36587": {
         "Index": 20224,
@@ -24032,7 +27068,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.0",
+        "PatchName": "Endwalker"
     },
     "36611": {
         "Index": 15155,
@@ -24045,7 +27083,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "36612": {
         "Index": 15156,
@@ -24058,7 +27098,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "36659": {
         "Index": 20231,
@@ -24071,7 +27113,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36660": {
         "Index": 1143,
@@ -24087,7 +27131,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36661": {
         "Index": 20232,
@@ -24100,7 +27146,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36662": {
         "Index": 1144,
@@ -24116,7 +27164,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36663": {
         "Index": 1145,
@@ -24132,7 +27182,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36679": {
         "Index": 1135,
@@ -24148,7 +27200,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36680": {
         "Index": 1136,
@@ -24164,7 +27218,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36681": {
         "Index": 1137,
@@ -24180,7 +27236,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36682": {
         "Index": 1138,
@@ -24196,7 +27254,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36683": {
         "Index": 1139,
@@ -24212,7 +27272,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36684": {
         "Index": 1140,
@@ -24228,7 +27290,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36685": {
         "Index": 1141,
@@ -24244,7 +27308,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "36686": {
         "Index": 1142,
@@ -24260,7 +27326,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.1",
+        "PatchName": "NewfoundAdventure"
     },
     "37697": {
         "Index": 1155,
@@ -24276,7 +27344,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37845": {
         "Index": 1146,
@@ -24292,7 +27362,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37846": {
         "Index": 1147,
@@ -24308,7 +27380,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37847": {
         "Index": 1148,
@@ -24324,7 +27398,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37848": {
         "Index": 1149,
@@ -24340,7 +27416,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37849": {
         "Index": 1150,
@@ -24356,7 +27434,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37850": {
         "Index": 1151,
@@ -24372,7 +27452,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37851": {
         "Index": 1152,
@@ -24388,7 +27470,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37852": {
         "Index": 1153,
@@ -24404,7 +27488,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "37853": {
         "Index": 1154,
@@ -24420,7 +27506,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.2",
+        "PatchName": "BuriedMemory"
     },
     "38324": {
         "Index": 15157,
@@ -24433,7 +27521,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38325": {
         "Index": 15158,
@@ -24446,7 +27536,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38326": {
         "Index": 15159,
@@ -24459,7 +27551,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38327": {
         "Index": 15160,
@@ -24472,7 +27566,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38328": {
         "Index": 15161,
@@ -24485,7 +27581,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38329": {
         "Index": 15162,
@@ -24498,7 +27596,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38330": {
         "Index": 15163,
@@ -24511,7 +27611,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38331": {
         "Index": 15164,
@@ -24524,7 +27626,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38332": {
         "Index": 15165,
@@ -24537,7 +27641,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38333": {
         "Index": 15166,
@@ -24550,7 +27656,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38334": {
         "Index": 15167,
@@ -24563,7 +27671,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38335": {
         "Index": 15168,
@@ -24576,7 +27686,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38336": {
         "Index": 15169,
@@ -24589,7 +27701,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38337": {
         "Index": 15170,
@@ -24602,7 +27716,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38338": {
         "Index": 15171,
@@ -24615,7 +27731,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38339": {
         "Index": 15172,
@@ -24628,7 +27746,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38340": {
         "Index": 15173,
@@ -24641,7 +27761,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38341": {
         "Index": 15174,
@@ -24654,7 +27776,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38342": {
         "Index": 15175,
@@ -24667,7 +27791,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38343": {
         "Index": 15176,
@@ -24680,7 +27806,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38344": {
         "Index": 15177,
@@ -24693,7 +27821,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38345": {
         "Index": 15178,
@@ -24706,7 +27836,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38346": {
         "Index": 15179,
@@ -24719,7 +27851,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38347": {
         "Index": 15180,
@@ -24732,7 +27866,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "38792": {
         "Index": 1168,
@@ -24748,7 +27884,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38793": {
         "Index": 1169,
@@ -24764,7 +27902,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38798": {
         "Index": 1170,
@@ -24780,7 +27920,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38799": {
         "Index": 1171,
@@ -24796,7 +27938,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38810": {
         "Index": 1163,
@@ -24812,7 +27956,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38811": {
         "Index": 20233,
@@ -24825,7 +27971,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38812": {
         "Index": 1164,
@@ -24841,7 +27989,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38813": {
         "Index": 20234,
@@ -24854,7 +28004,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38814": {
         "Index": 1165,
@@ -24870,7 +28022,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38830": {
         "Index": 1156,
@@ -24886,7 +28040,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38831": {
         "Index": 1157,
@@ -24902,7 +28058,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38832": {
         "Index": 1158,
@@ -24918,7 +28076,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38833": {
         "Index": 1159,
@@ -24934,7 +28094,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38834": {
         "Index": 1160,
@@ -24950,7 +28112,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38835": {
         "Index": 1161,
@@ -24966,7 +28130,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38836": {
         "Index": 1162,
@@ -24982,7 +28148,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38837": {
         "Index": 20236,
@@ -24995,7 +28163,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38838": {
         "Index": 20237,
@@ -25008,7 +28178,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38839": {
         "Index": 20238,
@@ -25021,7 +28193,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38840": {
         "Index": 20239,
@@ -25034,7 +28208,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38841": {
         "Index": 20240,
@@ -25047,7 +28223,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38935": {
         "Index": 1166,
@@ -25063,7 +28241,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "38939": {
         "Index": 20235,
@@ -25076,7 +28256,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "39240": {
         "Index": 1167,
@@ -25092,7 +28274,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.3",
+        "PatchName": "GodsRevelLandsTremble"
     },
     "39591": {
         "Index": 15181,
@@ -25105,7 +28289,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "39809": {
         "Index": 1258,
@@ -25121,7 +28307,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39810": {
         "Index": 1259,
@@ -25137,7 +28325,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39815": {
         "Index": 1260,
@@ -25153,7 +28343,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39816": {
         "Index": 1261,
@@ -25169,7 +28361,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39879": {
         "Index": 1172,
@@ -25185,7 +28379,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39880": {
         "Index": 1173,
@@ -25201,7 +28397,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39881": {
         "Index": 1174,
@@ -25217,7 +28415,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39882": {
         "Index": 1175,
@@ -25233,7 +28433,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39883": {
         "Index": 1176,
@@ -25249,7 +28451,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "39912": {
         "Index": 1257,
@@ -25265,7 +28469,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40521": {
         "Index": 1189,
@@ -25281,7 +28487,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40522": {
         "Index": 1178,
@@ -25297,7 +28505,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40523": {
         "Index": 1179,
@@ -25313,7 +28523,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40524": {
         "Index": 1177,
@@ -25329,7 +28541,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40525": {
         "Index": 1190,
@@ -25345,7 +28559,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40526": {
         "Index": 1191,
@@ -25361,7 +28577,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40527": {
         "Index": 1201,
@@ -25377,7 +28595,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40528": {
         "Index": 1202,
@@ -25393,7 +28613,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40529": {
         "Index": 1249,
@@ -25409,7 +28631,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40530": {
         "Index": 1209,
@@ -25425,7 +28649,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40531": {
         "Index": 1213,
@@ -25441,7 +28667,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40532": {
         "Index": 1214,
@@ -25457,7 +28685,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40533": {
         "Index": 1215,
@@ -25473,7 +28703,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40534": {
         "Index": 1216,
@@ -25489,7 +28721,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40535": {
         "Index": 1217,
@@ -25505,7 +28739,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40536": {
         "Index": 1218,
@@ -25521,7 +28757,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40537": {
         "Index": 1219,
@@ -25537,7 +28775,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40538": {
         "Index": 1220,
@@ -25553,7 +28793,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40539": {
         "Index": 1221,
@@ -25569,7 +28811,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40540": {
         "Index": 1253,
@@ -25585,7 +28829,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40541": {
         "Index": 1180,
@@ -25601,7 +28847,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40542": {
         "Index": 1181,
@@ -25617,7 +28865,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40543": {
         "Index": 1182,
@@ -25633,7 +28883,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40544": {
         "Index": 1192,
@@ -25649,7 +28901,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40545": {
         "Index": 1193,
@@ -25665,7 +28919,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40546": {
         "Index": 1194,
@@ -25681,7 +28937,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40547": {
         "Index": 1203,
@@ -25697,7 +28955,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40548": {
         "Index": 1204,
@@ -25713,7 +28973,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40549": {
         "Index": 1250,
@@ -25729,7 +28991,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40550": {
         "Index": 1210,
@@ -25745,7 +29009,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40551": {
         "Index": 1222,
@@ -25761,7 +29027,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40552": {
         "Index": 1223,
@@ -25777,7 +29045,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40553": {
         "Index": 1224,
@@ -25793,7 +29063,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40554": {
         "Index": 1225,
@@ -25809,7 +29081,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40555": {
         "Index": 1226,
@@ -25825,7 +29099,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40556": {
         "Index": 1227,
@@ -25841,7 +29117,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40557": {
         "Index": 1228,
@@ -25857,7 +29135,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40558": {
         "Index": 1229,
@@ -25873,7 +29153,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40559": {
         "Index": 1230,
@@ -25889,7 +29171,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40560": {
         "Index": 1254,
@@ -25905,7 +29189,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40561": {
         "Index": 1183,
@@ -25921,7 +29207,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40562": {
         "Index": 1184,
@@ -25937,7 +29225,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40563": {
         "Index": 1185,
@@ -25953,7 +29243,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40564": {
         "Index": 1195,
@@ -25969,7 +29261,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40565": {
         "Index": 1205,
@@ -25985,7 +29279,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40566": {
         "Index": 1197,
@@ -26001,7 +29297,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40567": {
         "Index": 1196,
@@ -26017,7 +29315,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40568": {
         "Index": 1206,
@@ -26033,7 +29333,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40569": {
         "Index": 1251,
@@ -26049,7 +29351,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40570": {
         "Index": 1211,
@@ -26065,7 +29369,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40571": {
         "Index": 1231,
@@ -26081,7 +29387,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40572": {
         "Index": 1232,
@@ -26097,7 +29405,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40573": {
         "Index": 1233,
@@ -26113,7 +29423,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40574": {
         "Index": 1234,
@@ -26129,7 +29441,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40575": {
         "Index": 1235,
@@ -26145,7 +29459,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40576": {
         "Index": 1236,
@@ -26161,7 +29477,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40577": {
         "Index": 1237,
@@ -26177,7 +29495,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40578": {
         "Index": 1238,
@@ -26193,7 +29513,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40579": {
         "Index": 1239,
@@ -26209,7 +29531,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40580": {
         "Index": 1255,
@@ -26225,7 +29549,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40581": {
         "Index": 1186,
@@ -26241,7 +29567,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40582": {
         "Index": 1187,
@@ -26257,7 +29585,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40583": {
         "Index": 1188,
@@ -26273,7 +29603,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40584": {
         "Index": 1198,
@@ -26289,7 +29621,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40585": {
         "Index": 1199,
@@ -26305,7 +29639,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40586": {
         "Index": 1200,
@@ -26321,7 +29657,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40587": {
         "Index": 1207,
@@ -26337,7 +29675,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40588": {
         "Index": 1208,
@@ -26353,7 +29693,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40589": {
         "Index": 1252,
@@ -26369,7 +29711,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40590": {
         "Index": 1212,
@@ -26385,7 +29729,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40591": {
         "Index": 1240,
@@ -26401,7 +29747,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40592": {
         "Index": 1241,
@@ -26417,7 +29765,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40593": {
         "Index": 1242,
@@ -26433,7 +29783,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40594": {
         "Index": 1243,
@@ -26449,7 +29801,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40595": {
         "Index": 1244,
@@ -26465,7 +29819,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40596": {
         "Index": 1245,
@@ -26481,7 +29837,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40597": {
         "Index": 1246,
@@ -26497,7 +29855,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40598": {
         "Index": 1247,
@@ -26513,7 +29873,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40599": {
         "Index": 1248,
@@ -26529,7 +29891,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "40600": {
         "Index": 1256,
@@ -26545,7 +29909,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.4",
+        "PatchName": "TheDarkThrone"
     },
     "41058": {
         "Index": 1268,
@@ -26561,7 +29927,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41059": {
         "Index": 1269,
@@ -26577,7 +29945,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41060": {
         "Index": 20241,
@@ -26590,7 +29960,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41061": {
         "Index": 1270,
@@ -26606,7 +29978,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41062": {
         "Index": 20242,
@@ -26619,7 +29993,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41298": {
         "Index": 1272,
@@ -26635,7 +30011,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41299": {
         "Index": 1273,
@@ -26651,7 +30029,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41300": {
         "Index": 1275,
@@ -26667,7 +30047,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41301": {
         "Index": 1276,
@@ -26683,7 +30065,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41302": {
         "Index": 1274,
@@ -26699,7 +30083,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41401": {
         "Index": 1262,
@@ -26715,7 +30101,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41402": {
         "Index": 1263,
@@ -26731,7 +30119,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41403": {
         "Index": 1264,
@@ -26747,7 +30137,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41404": {
         "Index": 1265,
@@ -26763,7 +30155,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41405": {
         "Index": 1266,
@@ -26779,7 +30173,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41406": {
         "Index": 1267,
@@ -26795,7 +30191,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41407": {
         "Index": 1277,
@@ -26811,7 +30209,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41408": {
         "Index": 1278,
@@ -26827,7 +30227,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41409": {
         "Index": 1279,
@@ -26843,7 +30245,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41410": {
         "Index": 1280,
@@ -26859,7 +30263,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41411": {
         "Index": 1281,
@@ -26875,7 +30281,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41412": {
         "Index": 1282,
@@ -26891,7 +30299,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "41419": {
         "Index": 1271,
@@ -26907,7 +30317,9 @@ const fishlist = {
         ],
         "BigFish": [
             true
-        ]
+        ],
+        "Patch": "6.5",
+        "PatchName": "GrowingLight"
     },
     "2001398": {
         "Index": 15005,
@@ -26920,7 +30332,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "2001410": {
         "Index": 15006,
@@ -26933,7 +30347,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "2001422": {
         "Index": 15007,
@@ -26946,7 +30362,9 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
+        ],
+        "Patch": null,
+        "PatchName": null
     },
     "2001889": {
         "Index": 15011,
@@ -26959,32 +30377,8 @@ const fishlist = {
         ],
         "BigFish": [
             false
-        ]
-    },
-    "2002390": {
-        "Index": 15026,
-        "WeatherRestricted": 0,
-        "TimeRestricted": 0,
-        "FishName": "fresh haddock",
-        "SpearFishSize": null,
-        "OceanStars": [
-            0
         ],
-        "BigFish": [
-            false
-        ]
-    },
-    "2002869": {
-        "Index": 15058,
-        "WeatherRestricted": 0,
-        "TimeRestricted": 0,
-        "FishName": "fresh haddock",
-        "SpearFishSize": null,
-        "OceanStars": [
-            0
-        ],
-        "BigFish": [
-            false
-        ]
+        "Patch": null,
+        "PatchName": null
     }
 }
