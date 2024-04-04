@@ -24,7 +24,7 @@ function compare() {
             return;
         }
         try {
-            if ((includeRegularFish && found.BigFish[0] == false && found.OceanStars == 0) ||
+            if ((includeRegularFish && found.BigFish[0] == false && found.OceanStars == 0 && found.SpearFishSize == null) ||
                 (includeBigFish && found.BigFish[0] == true && found.OceanStars == 0) ||
                 (includeOceanFish && found.OceanStars >= 1) ||
                 (includeSpearfishing && found.SpearFishSize == 'Small') ||
